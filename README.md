@@ -1,4 +1,4 @@
-# md-10-parameter
+# md-10-parameter Übungen
 
 Die Übungen in diesem Repository sind in verschiedene Abschnitte aufgebaut.
 
