@@ -19,3 +19,7 @@ Die Übungen in diesem Repository sind in verschiedene Abschnitte aufgebaut.
 
 - Gemeinsam betrachten wir die Datei arbeitsablauf.R im Hauptverzeichnis
 - Folge den Anweisungen der Kursleitung
+
+## Abschnitt 5: Ich bin dran
+
+- Schaut zu wie ich den Bericht mittels GitHub Pages publiziere
