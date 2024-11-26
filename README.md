@@ -2,20 +2,20 @@
 
 Die Übungen in diesem Repository sind in verschiedene Abschnitte aufgebaut.
 
-## Übung 1: Wir sind dran
+## Abschnitt 1: Wir sind dran
 
 - Öffne die Datei index.qmd im Ordner docs und folge den Anweisungen der Kursleitung
 
-## Übung 2: Ihr seid dran
+## Abschnitt 2: Ihr seid dran
 
-- In Break-out rooms bearbeitet ihr die Aufgaben in der Datei 01-daten-aufbereitung.R im Ordner R
+- In Break-out rooms bearbeitet ihr die Aufgaben in der Datei 01-daten-aufbereitung.R im Ordner analyse
 
-## Übung 3: Wir sind dran
+## Abschnitt 3: Wir sind dran
 
 - Gemeinsam betrachten wir die Datei render-bericht.R im Ordner R
 - Folge den Anweisungen der Kursleitung
 
-## Übung 4: Wir sind dran
+## Abschnitt 4: Wir sind dran
 
 - Gemeinsam betrachten wir die Datei arbeitsablauf.R im Hauptverzeichnis
 - Folge den Anweisungen der Kursleitung

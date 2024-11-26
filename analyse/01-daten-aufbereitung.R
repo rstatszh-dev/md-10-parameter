@@ -42,8 +42,8 @@ leerwohungen_wohnungsbestand <- wohnungsbestand_klein |>
   filter(bfs_nr != 0) |> 
   filter(!str_detect(gebiet_name, "bis"))
 
-gemeinde_bfs_nr <- leerwohungen_wohnungsbestand  |> 
-  distinct(bfs_nr, gebiet_name) |> 
-  filter(bfs_nr %in% c(1, 37, 176, 298))
+# Daten speichern ----------------------------------------------------------
 
+write_csv(leerwohungen_wohnungsbestand, 
+          here::here("daten/processed/leerwohungen_wohnungsbestand.csv"))
 

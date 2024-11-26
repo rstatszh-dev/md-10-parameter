@@ -1,7 +1,7 @@
-# Daten laden -------------------------------------------------------------
+# Funktion laden-------------------------------------------------------------
 
-source(here::here("analyse/01-daten-aufbereitung.R"))
 source(here::here("R/render-bericht.R"))
+source(here::here("analyse/02-bfs-nummern-lesen.R"))
 
 # einen Bericht für ein Jahr erstellen -------------------------------------
 

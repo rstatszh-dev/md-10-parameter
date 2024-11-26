@@ -14,13 +14,16 @@ editor_options:
 Der Bericht enthält eine Visualisierung der Daten erstellt mittels R package `ggplot2` und einer zusammenfassende Tabelle erstellt mit R package `gt` basierend auf einer deskriptiven Analyse (z.B. Mittelwert, Standardabweichung, Median, etc.).
 
 ```{r}
-
+# source() erlaubt es uns, Code aus einer anderen Datei zu laden
 source(here::here("analyse/01-daten-aufbereitung.R"))
+source(here::here("analyse/02-bfs-nummern-lesen.R"))
 
+# Code um den Namen der Gemeinde mittels des Parameter zu erhalten
 gemeinde_name <- gemeinde_bfs_nr |> 
   filter(bfs_nr == params$bfs_nr) |> 
   pull(gebiet_name) 
 
+# Code um die Daten für die Gemeinde mittels des Parameter zu erhalten
 daten_in <- leerwohungen_wohnungsbestand |> 
   filter(bfs_nr == params$bfs_nr) 
 ```
@@ -43,20 +46,23 @@ daten_in_prozent <- daten_in |>
   ungroup()
 ```
 
-```{r}
+# Visualisierung
 
+```{r}
+# Code für inline code
+
+# Code um die summe der Leerwohnungen in einem bestimmen Jahr zu erhalten
 leerwohungen_anzahl <- daten_in_prozent |> 
   filter(indikator_jahr == params$jahr) |> 
   filter(indikator_id == 381) |> 
   pull(summe)
 
+# Code um die Leerwohnungsrate in einem bestimmen Jahr zu erhalten
 rate <- daten_in_prozent |> 
   filter(indikator_jahr == params$jahr) |> 
   filter(indikator_id == 140) |> 
   pull(rate)
 ``` 
-
-# Visualisierung
 
 Der Leerwohnungsbestand in `r gemeinde_name` im Jahr `r params$jahr` beträgt `r leerwohungen_anzahl`. Pro `r round(rate, 0)` Wohnungen, ist eine Wohnung leer.
 
@@ -66,11 +72,13 @@ ggplot(data = daten_in_prozent,
                                  y = summe, 
                                  fill = indikator_name)) +
   geom_col() +
+  facet_wrap(~indikator_name, scales = "free_y") +
   labs(title = paste("Wohnungsbestand und Leerwohnungen in", gemeinde_name),
        x = "Jahr",
        y = "Anzahl",
        fill = "Indikator",
-       caption = "Daten: zh.ch/daten") 
+       caption = "Daten: zh.ch/daten") +
+  theme(legend.position = "bottom")
 ```
 
 # Tabelle
