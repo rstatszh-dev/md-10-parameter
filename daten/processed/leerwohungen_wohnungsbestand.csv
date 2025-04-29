@@ -32,6 +32,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 1,Aeugst a.A.,Wohnungsbestand [Whg.],140,2020,937
 1,Aeugst a.A.,Wohnungsbestand [Whg.],140,2021,943
 1,Aeugst a.A.,Wohnungsbestand [Whg.],140,2022,948
+1,Aeugst a.A.,Wohnungsbestand [Whg.],140,2023,947
 2,Affoltern a.A.,Wohnungsbestand [Whg.],140,1990,3806
 2,Affoltern a.A.,Wohnungsbestand [Whg.],140,1991,3830
 2,Affoltern a.A.,Wohnungsbestand [Whg.],140,1992,3845
@@ -65,6 +66,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 2,Affoltern a.A.,Wohnungsbestand [Whg.],140,2020,5799
 2,Affoltern a.A.,Wohnungsbestand [Whg.],140,2021,5849
 2,Affoltern a.A.,Wohnungsbestand [Whg.],140,2022,5947
+2,Affoltern a.A.,Wohnungsbestand [Whg.],140,2023,5976
 3,Bonstetten,Wohnungsbestand [Whg.],140,1990,1109
 3,Bonstetten,Wohnungsbestand [Whg.],140,1991,1140
 3,Bonstetten,Wohnungsbestand [Whg.],140,1992,1167
@@ -98,6 +100,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 3,Bonstetten,Wohnungsbestand [Whg.],140,2020,2476
 3,Bonstetten,Wohnungsbestand [Whg.],140,2021,2490
 3,Bonstetten,Wohnungsbestand [Whg.],140,2022,2506
+3,Bonstetten,Wohnungsbestand [Whg.],140,2023,2518
 4,Hausen a.A.,Wohnungsbestand [Whg.],140,1990,1009
 4,Hausen a.A.,Wohnungsbestand [Whg.],140,1991,1017
 4,Hausen a.A.,Wohnungsbestand [Whg.],140,1992,1059
@@ -131,6 +134,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 4,Hausen a.A.,Wohnungsbestand [Whg.],140,2020,1736
 4,Hausen a.A.,Wohnungsbestand [Whg.],140,2021,1803
 4,Hausen a.A.,Wohnungsbestand [Whg.],140,2022,1828
+4,Hausen a.A.,Wohnungsbestand [Whg.],140,2023,1835
 5,Hedingen,Wohnungsbestand [Whg.],140,1990,875
 5,Hedingen,Wohnungsbestand [Whg.],140,1991,893
 5,Hedingen,Wohnungsbestand [Whg.],140,1992,959
@@ -164,6 +168,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 5,Hedingen,Wohnungsbestand [Whg.],140,2020,1679
 5,Hedingen,Wohnungsbestand [Whg.],140,2021,1681
 5,Hedingen,Wohnungsbestand [Whg.],140,2022,1714
+5,Hedingen,Wohnungsbestand [Whg.],140,2023,1740
 6,Kappel a.A.,Wohnungsbestand [Whg.],140,1990,256
 6,Kappel a.A.,Wohnungsbestand [Whg.],140,1991,261
 6,Kappel a.A.,Wohnungsbestand [Whg.],140,1992,264
@@ -197,6 +202,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 6,Kappel a.A.,Wohnungsbestand [Whg.],140,2020,556
 6,Kappel a.A.,Wohnungsbestand [Whg.],140,2021,570
 6,Kappel a.A.,Wohnungsbestand [Whg.],140,2022,583
+6,Kappel a.A.,Wohnungsbestand [Whg.],140,2023,582
 7,Knonau,Wohnungsbestand [Whg.],140,1990,387
 7,Knonau,Wohnungsbestand [Whg.],140,1991,426
 7,Knonau,Wohnungsbestand [Whg.],140,1992,445
@@ -230,6 +236,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 7,Knonau,Wohnungsbestand [Whg.],140,2020,1040
 7,Knonau,Wohnungsbestand [Whg.],140,2021,1052
 7,Knonau,Wohnungsbestand [Whg.],140,2022,1073
+7,Knonau,Wohnungsbestand [Whg.],140,2023,1079
 8,Maschwanden,Wohnungsbestand [Whg.],140,1990,193
 8,Maschwanden,Wohnungsbestand [Whg.],140,1991,193
 8,Maschwanden,Wohnungsbestand [Whg.],140,1992,197
@@ -263,6 +270,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 8,Maschwanden,Wohnungsbestand [Whg.],140,2020,305
 8,Maschwanden,Wohnungsbestand [Whg.],140,2021,305
 8,Maschwanden,Wohnungsbestand [Whg.],140,2022,304
+8,Maschwanden,Wohnungsbestand [Whg.],140,2023,304
 9,Mettmenstetten,Wohnungsbestand [Whg.],140,1990,1048
 9,Mettmenstetten,Wohnungsbestand [Whg.],140,1991,1079
 9,Mettmenstetten,Wohnungsbestand [Whg.],140,1992,1105
@@ -296,6 +304,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 9,Mettmenstetten,Wohnungsbestand [Whg.],140,2020,2331
 9,Mettmenstetten,Wohnungsbestand [Whg.],140,2021,2382
 9,Mettmenstetten,Wohnungsbestand [Whg.],140,2022,2395
+9,Mettmenstetten,Wohnungsbestand [Whg.],140,2023,2433
 10,Obfelden,Wohnungsbestand [Whg.],140,1990,1417
 10,Obfelden,Wohnungsbestand [Whg.],140,1991,1420
 10,Obfelden,Wohnungsbestand [Whg.],140,1992,1457
@@ -329,6 +338,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 10,Obfelden,Wohnungsbestand [Whg.],140,2020,2527
 10,Obfelden,Wohnungsbestand [Whg.],140,2021,2546
 10,Obfelden,Wohnungsbestand [Whg.],140,2022,2584
+10,Obfelden,Wohnungsbestand [Whg.],140,2023,2635
 11,Ottenbach,Wohnungsbestand [Whg.],140,1990,746
 11,Ottenbach,Wohnungsbestand [Whg.],140,1991,779
 11,Ottenbach,Wohnungsbestand [Whg.],140,1992,789
@@ -362,6 +372,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 11,Ottenbach,Wohnungsbestand [Whg.],140,2020,1267
 11,Ottenbach,Wohnungsbestand [Whg.],140,2021,1282
 11,Ottenbach,Wohnungsbestand [Whg.],140,2022,1340
+11,Ottenbach,Wohnungsbestand [Whg.],140,2023,1365
 12,Rifferswil,Wohnungsbestand [Whg.],140,1990,237
 12,Rifferswil,Wohnungsbestand [Whg.],140,1991,241
 12,Rifferswil,Wohnungsbestand [Whg.],140,1992,243
@@ -395,6 +406,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 12,Rifferswil,Wohnungsbestand [Whg.],140,2020,512
 12,Rifferswil,Wohnungsbestand [Whg.],140,2021,521
 12,Rifferswil,Wohnungsbestand [Whg.],140,2022,519
+12,Rifferswil,Wohnungsbestand [Whg.],140,2023,525
 13,Stallikon,Wohnungsbestand [Whg.],140,1990,756
 13,Stallikon,Wohnungsbestand [Whg.],140,1991,865
 13,Stallikon,Wohnungsbestand [Whg.],140,1992,880
@@ -428,6 +440,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 13,Stallikon,Wohnungsbestand [Whg.],140,2020,1685
 13,Stallikon,Wohnungsbestand [Whg.],140,2021,1724
 13,Stallikon,Wohnungsbestand [Whg.],140,2022,1724
+13,Stallikon,Wohnungsbestand [Whg.],140,2023,1738
 14,Wettswil a.A.,Wohnungsbestand [Whg.],140,1990,1335
 14,Wettswil a.A.,Wohnungsbestand [Whg.],140,1991,1344
 14,Wettswil a.A.,Wohnungsbestand [Whg.],140,1992,1355
@@ -461,6 +474,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 14,Wettswil a.A.,Wohnungsbestand [Whg.],140,2020,2298
 14,Wettswil a.A.,Wohnungsbestand [Whg.],140,2021,2309
 14,Wettswil a.A.,Wohnungsbestand [Whg.],140,2022,2312
+14,Wettswil a.A.,Wohnungsbestand [Whg.],140,2023,2319
 22,Benken,Wohnungsbestand [Whg.],140,1990,244
 22,Benken,Wohnungsbestand [Whg.],140,1991,247
 22,Benken,Wohnungsbestand [Whg.],140,1992,255
@@ -494,6 +508,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 22,Benken,Wohnungsbestand [Whg.],140,2020,412
 22,Benken,Wohnungsbestand [Whg.],140,2021,414
 22,Benken,Wohnungsbestand [Whg.],140,2022,415
+22,Benken,Wohnungsbestand [Whg.],140,2023,415
 23,Berg a.I.,Wohnungsbestand [Whg.],140,1990,167
 23,Berg a.I.,Wohnungsbestand [Whg.],140,1991,169
 23,Berg a.I.,Wohnungsbestand [Whg.],140,1992,183
@@ -527,6 +542,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 23,Berg a.I.,Wohnungsbestand [Whg.],140,2020,298
 23,Berg a.I.,Wohnungsbestand [Whg.],140,2021,298
 23,Berg a.I.,Wohnungsbestand [Whg.],140,2022,297
+23,Berg a.I.,Wohnungsbestand [Whg.],140,2023,298
 24,Buch a.I.,Wohnungsbestand [Whg.],140,1990,189
 24,Buch a.I.,Wohnungsbestand [Whg.],140,1991,191
 24,Buch a.I.,Wohnungsbestand [Whg.],140,1992,198
@@ -560,6 +576,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 24,Buch a.I.,Wohnungsbestand [Whg.],140,2020,431
 24,Buch a.I.,Wohnungsbestand [Whg.],140,2021,436
 24,Buch a.I.,Wohnungsbestand [Whg.],140,2022,445
+24,Buch a.I.,Wohnungsbestand [Whg.],140,2023,456
 25,Dachsen,Wohnungsbestand [Whg.],140,1990,464
 25,Dachsen,Wohnungsbestand [Whg.],140,1991,470
 25,Dachsen,Wohnungsbestand [Whg.],140,1992,473
@@ -593,6 +610,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 25,Dachsen,Wohnungsbestand [Whg.],140,2020,866
 25,Dachsen,Wohnungsbestand [Whg.],140,2021,867
 25,Dachsen,Wohnungsbestand [Whg.],140,2022,874
+25,Dachsen,Wohnungsbestand [Whg.],140,2023,875
 26,Dorf,Wohnungsbestand [Whg.],140,1990,148
 26,Dorf,Wohnungsbestand [Whg.],140,1991,159
 26,Dorf,Wohnungsbestand [Whg.],140,1992,166
@@ -626,6 +644,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 26,Dorf,Wohnungsbestand [Whg.],140,2020,293
 26,Dorf,Wohnungsbestand [Whg.],140,2021,305
 26,Dorf,Wohnungsbestand [Whg.],140,2022,314
+26,Dorf,Wohnungsbestand [Whg.],140,2023,318
 27,Feuerthalen,Wohnungsbestand [Whg.],140,1990,1244
 27,Feuerthalen,Wohnungsbestand [Whg.],140,1991,1257
 27,Feuerthalen,Wohnungsbestand [Whg.],140,1992,1263
@@ -659,6 +678,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 27,Feuerthalen,Wohnungsbestand [Whg.],140,2020,1844
 27,Feuerthalen,Wohnungsbestand [Whg.],140,2021,1899
 27,Feuerthalen,Wohnungsbestand [Whg.],140,2022,1899
+27,Feuerthalen,Wohnungsbestand [Whg.],140,2023,1901
 28,Flaach,Wohnungsbestand [Whg.],140,1990,351
 28,Flaach,Wohnungsbestand [Whg.],140,1991,365
 28,Flaach,Wohnungsbestand [Whg.],140,1992,378
@@ -692,6 +712,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 28,Flaach,Wohnungsbestand [Whg.],140,2020,673
 28,Flaach,Wohnungsbestand [Whg.],140,2021,682
 28,Flaach,Wohnungsbestand [Whg.],140,2022,699
+28,Flaach,Wohnungsbestand [Whg.],140,2023,700
 29,Flurlingen,Wohnungsbestand [Whg.],140,1990,466
 29,Flurlingen,Wohnungsbestand [Whg.],140,1991,467
 29,Flurlingen,Wohnungsbestand [Whg.],140,1992,490
@@ -725,6 +746,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 29,Flurlingen,Wohnungsbestand [Whg.],140,2020,700
 29,Flurlingen,Wohnungsbestand [Whg.],140,2021,701
 29,Flurlingen,Wohnungsbestand [Whg.],140,2022,701
+29,Flurlingen,Wohnungsbestand [Whg.],140,2023,702
 31,Henggart,Wohnungsbestand [Whg.],140,1990,469
 31,Henggart,Wohnungsbestand [Whg.],140,1991,484
 31,Henggart,Wohnungsbestand [Whg.],140,1992,501
@@ -758,6 +780,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 31,Henggart,Wohnungsbestand [Whg.],140,2020,999
 31,Henggart,Wohnungsbestand [Whg.],140,2021,999
 31,Henggart,Wohnungsbestand [Whg.],140,2022,999
+31,Henggart,Wohnungsbestand [Whg.],140,2023,1033
 33,Kleinandelfingen,Wohnungsbestand [Whg.],140,1990,540
 33,Kleinandelfingen,Wohnungsbestand [Whg.],140,1991,553
 33,Kleinandelfingen,Wohnungsbestand [Whg.],140,1992,582
@@ -791,6 +814,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 33,Kleinandelfingen,Wohnungsbestand [Whg.],140,2020,977
 33,Kleinandelfingen,Wohnungsbestand [Whg.],140,2021,988
 33,Kleinandelfingen,Wohnungsbestand [Whg.],140,2022,1001
+33,Kleinandelfingen,Wohnungsbestand [Whg.],140,2023,1026
 34,Laufen-Uhwiesen,Wohnungsbestand [Whg.],140,1990,515
 34,Laufen-Uhwiesen,Wohnungsbestand [Whg.],140,1991,524
 34,Laufen-Uhwiesen,Wohnungsbestand [Whg.],140,1992,528
@@ -824,6 +848,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 34,Laufen-Uhwiesen,Wohnungsbestand [Whg.],140,2020,877
 34,Laufen-Uhwiesen,Wohnungsbestand [Whg.],140,2021,874
 34,Laufen-Uhwiesen,Wohnungsbestand [Whg.],140,2022,882
+34,Laufen-Uhwiesen,Wohnungsbestand [Whg.],140,2023,913
 35,Marthalen,Wohnungsbestand [Whg.],140,1990,595
 35,Marthalen,Wohnungsbestand [Whg.],140,1991,607
 35,Marthalen,Wohnungsbestand [Whg.],140,1992,635
@@ -857,6 +882,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 35,Marthalen,Wohnungsbestand [Whg.],140,2020,918
 35,Marthalen,Wohnungsbestand [Whg.],140,2021,923
 35,Marthalen,Wohnungsbestand [Whg.],140,2022,925
+35,Marthalen,Wohnungsbestand [Whg.],140,2023,931
 37,Ossingen,Wohnungsbestand [Whg.],140,1990,420
 37,Ossingen,Wohnungsbestand [Whg.],140,1991,427
 37,Ossingen,Wohnungsbestand [Whg.],140,1992,436
@@ -890,6 +916,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 37,Ossingen,Wohnungsbestand [Whg.],140,2020,788
 37,Ossingen,Wohnungsbestand [Whg.],140,2021,794
 37,Ossingen,Wohnungsbestand [Whg.],140,2022,796
+37,Ossingen,Wohnungsbestand [Whg.],140,2023,796
 38,Rheinau,Wohnungsbestand [Whg.],140,1990,586
 38,Rheinau,Wohnungsbestand [Whg.],140,1991,588
 38,Rheinau,Wohnungsbestand [Whg.],140,1992,592
@@ -923,6 +950,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 38,Rheinau,Wohnungsbestand [Whg.],140,2020,680
 38,Rheinau,Wohnungsbestand [Whg.],140,2021,684
 38,Rheinau,Wohnungsbestand [Whg.],140,2022,684
+38,Rheinau,Wohnungsbestand [Whg.],140,2023,686
 39,Thalheim a.d.Th.,Wohnungsbestand [Whg.],140,1990,195
 39,Thalheim a.d.Th.,Wohnungsbestand [Whg.],140,1991,199
 39,Thalheim a.d.Th.,Wohnungsbestand [Whg.],140,1992,205
@@ -956,6 +984,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 39,Thalheim a.d.Th.,Wohnungsbestand [Whg.],140,2020,412
 39,Thalheim a.d.Th.,Wohnungsbestand [Whg.],140,2021,429
 39,Thalheim a.d.Th.,Wohnungsbestand [Whg.],140,2022,431
+39,Thalheim a.d.Th.,Wohnungsbestand [Whg.],140,2023,440
 40,Trüllikon,Wohnungsbestand [Whg.],140,1990,380
 40,Trüllikon,Wohnungsbestand [Whg.],140,1991,397
 40,Trüllikon,Wohnungsbestand [Whg.],140,1992,399
@@ -989,6 +1018,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 40,Trüllikon,Wohnungsbestand [Whg.],140,2020,518
 40,Trüllikon,Wohnungsbestand [Whg.],140,2021,526
 40,Trüllikon,Wohnungsbestand [Whg.],140,2022,526
+40,Trüllikon,Wohnungsbestand [Whg.],140,2023,533
 41,Truttikon,Wohnungsbestand [Whg.],140,1990,124
 41,Truttikon,Wohnungsbestand [Whg.],140,1991,129
 41,Truttikon,Wohnungsbestand [Whg.],140,1992,130
@@ -1022,6 +1052,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 41,Truttikon,Wohnungsbestand [Whg.],140,2020,200
 41,Truttikon,Wohnungsbestand [Whg.],140,2021,201
 41,Truttikon,Wohnungsbestand [Whg.],140,2022,203
+41,Truttikon,Wohnungsbestand [Whg.],140,2023,204
 43,Volken,Wohnungsbestand [Whg.],140,1990,79
 43,Volken,Wohnungsbestand [Whg.],140,1991,82
 43,Volken,Wohnungsbestand [Whg.],140,1992,82
@@ -1055,6 +1086,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 43,Volken,Wohnungsbestand [Whg.],140,2020,168
 43,Volken,Wohnungsbestand [Whg.],140,2021,169
 43,Volken,Wohnungsbestand [Whg.],140,2022,172
+43,Volken,Wohnungsbestand [Whg.],140,2023,172
 51,Bachenbülach,Wohnungsbestand [Whg.],140,1990,1094
 51,Bachenbülach,Wohnungsbestand [Whg.],140,1991,1118
 51,Bachenbülach,Wohnungsbestand [Whg.],140,1992,1143
@@ -1088,6 +1120,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 51,Bachenbülach,Wohnungsbestand [Whg.],140,2020,1879
 51,Bachenbülach,Wohnungsbestand [Whg.],140,2021,1880
 51,Bachenbülach,Wohnungsbestand [Whg.],140,2022,1891
+51,Bachenbülach,Wohnungsbestand [Whg.],140,2023,1897
 52,Bassersdorf,Wohnungsbestand [Whg.],140,1990,2848
 52,Bassersdorf,Wohnungsbestand [Whg.],140,1991,2873
 52,Bassersdorf,Wohnungsbestand [Whg.],140,1992,2900
@@ -1121,6 +1154,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 52,Bassersdorf,Wohnungsbestand [Whg.],140,2020,5365
 52,Bassersdorf,Wohnungsbestand [Whg.],140,2021,5381
 52,Bassersdorf,Wohnungsbestand [Whg.],140,2022,5452
+52,Bassersdorf,Wohnungsbestand [Whg.],140,2023,5476
 53,Bülach,Wohnungsbestand [Whg.],140,1990,5499
 53,Bülach,Wohnungsbestand [Whg.],140,1991,5582
 53,Bülach,Wohnungsbestand [Whg.],140,1992,5720
@@ -1154,6 +1188,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 53,Bülach,Wohnungsbestand [Whg.],140,2020,10354
 53,Bülach,Wohnungsbestand [Whg.],140,2021,10427
 53,Bülach,Wohnungsbestand [Whg.],140,2022,11075
+53,Bülach,Wohnungsbestand [Whg.],140,2023,11208
 54,Dietlikon,Wohnungsbestand [Whg.],140,1990,2473
 54,Dietlikon,Wohnungsbestand [Whg.],140,1991,2485
 54,Dietlikon,Wohnungsbestand [Whg.],140,1992,2498
@@ -1187,6 +1222,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 54,Dietlikon,Wohnungsbestand [Whg.],140,2020,3666
 54,Dietlikon,Wohnungsbestand [Whg.],140,2021,3706
 54,Dietlikon,Wohnungsbestand [Whg.],140,2022,3669
+54,Dietlikon,Wohnungsbestand [Whg.],140,2023,3738
 55,Eglisau,Wohnungsbestand [Whg.],140,1990,1051
 55,Eglisau,Wohnungsbestand [Whg.],140,1991,1061
 55,Eglisau,Wohnungsbestand [Whg.],140,1992,1080
@@ -1220,6 +1256,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 55,Eglisau,Wohnungsbestand [Whg.],140,2020,2438
 55,Eglisau,Wohnungsbestand [Whg.],140,2021,2434
 55,Eglisau,Wohnungsbestand [Whg.],140,2022,2456
+55,Eglisau,Wohnungsbestand [Whg.],140,2023,2489
 56,Embrach,Wohnungsbestand [Whg.],140,1990,2757
 56,Embrach,Wohnungsbestand [Whg.],140,1991,2775
 56,Embrach,Wohnungsbestand [Whg.],140,1992,2793
@@ -1253,6 +1290,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 56,Embrach,Wohnungsbestand [Whg.],140,2020,4368
 56,Embrach,Wohnungsbestand [Whg.],140,2021,4438
 56,Embrach,Wohnungsbestand [Whg.],140,2022,4504
+56,Embrach,Wohnungsbestand [Whg.],140,2023,4617
 57,Freienstein-Teufen,Wohnungsbestand [Whg.],140,1990,679
 57,Freienstein-Teufen,Wohnungsbestand [Whg.],140,1991,684
 57,Freienstein-Teufen,Wohnungsbestand [Whg.],140,1992,707
@@ -1286,6 +1324,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 57,Freienstein-Teufen,Wohnungsbestand [Whg.],140,2020,1061
 57,Freienstein-Teufen,Wohnungsbestand [Whg.],140,2021,1064
 57,Freienstein-Teufen,Wohnungsbestand [Whg.],140,2022,1070
+57,Freienstein-Teufen,Wohnungsbestand [Whg.],140,2023,1072
 58,Glattfelden,Wohnungsbestand [Whg.],140,1990,1265
 58,Glattfelden,Wohnungsbestand [Whg.],140,1991,1267
 58,Glattfelden,Wohnungsbestand [Whg.],140,1992,1275
@@ -1319,6 +1358,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 58,Glattfelden,Wohnungsbestand [Whg.],140,2020,2424
 58,Glattfelden,Wohnungsbestand [Whg.],140,2021,2441
 58,Glattfelden,Wohnungsbestand [Whg.],140,2022,2444
+58,Glattfelden,Wohnungsbestand [Whg.],140,2023,2462
 59,Hochfelden,Wohnungsbestand [Whg.],140,1990,431
 59,Hochfelden,Wohnungsbestand [Whg.],140,1991,441
 59,Hochfelden,Wohnungsbestand [Whg.],140,1992,449
@@ -1352,6 +1392,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 59,Hochfelden,Wohnungsbestand [Whg.],140,2020,879
 59,Hochfelden,Wohnungsbestand [Whg.],140,2021,879
 59,Hochfelden,Wohnungsbestand [Whg.],140,2022,885
+59,Hochfelden,Wohnungsbestand [Whg.],140,2023,889
 60,Höri,Wohnungsbestand [Whg.],140,1990,698
 60,Höri,Wohnungsbestand [Whg.],140,1991,725
 60,Höri,Wohnungsbestand [Whg.],140,1992,731
@@ -1385,6 +1426,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 60,Höri,Wohnungsbestand [Whg.],140,2020,1268
 60,Höri,Wohnungsbestand [Whg.],140,2021,1306
 60,Höri,Wohnungsbestand [Whg.],140,2022,1438
+60,Höri,Wohnungsbestand [Whg.],140,2023,1446
 61,Hüntwangen,Wohnungsbestand [Whg.],140,1990,265
 61,Hüntwangen,Wohnungsbestand [Whg.],140,1991,267
 61,Hüntwangen,Wohnungsbestand [Whg.],140,1992,271
@@ -1418,6 +1460,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 61,Hüntwangen,Wohnungsbestand [Whg.],140,2020,466
 61,Hüntwangen,Wohnungsbestand [Whg.],140,2021,494
 61,Hüntwangen,Wohnungsbestand [Whg.],140,2022,497
+61,Hüntwangen,Wohnungsbestand [Whg.],140,2023,500
 62,Kloten,Wohnungsbestand [Whg.],140,1990,7417
 62,Kloten,Wohnungsbestand [Whg.],140,1991,7432
 62,Kloten,Wohnungsbestand [Whg.],140,1992,7520
@@ -1451,6 +1494,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 62,Kloten,Wohnungsbestand [Whg.],140,2020,10351
 62,Kloten,Wohnungsbestand [Whg.],140,2021,10622
 62,Kloten,Wohnungsbestand [Whg.],140,2022,10682
+62,Kloten,Wohnungsbestand [Whg.],140,2023,10791
 63,Lufingen,Wohnungsbestand [Whg.],140,1990,374
 63,Lufingen,Wohnungsbestand [Whg.],140,1991,413
 63,Lufingen,Wohnungsbestand [Whg.],140,1992,413
@@ -1484,6 +1528,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 63,Lufingen,Wohnungsbestand [Whg.],140,2020,1069
 63,Lufingen,Wohnungsbestand [Whg.],140,2021,1107
 63,Lufingen,Wohnungsbestand [Whg.],140,2022,1176
+63,Lufingen,Wohnungsbestand [Whg.],140,2023,1210
 64,Nürensdorf,Wohnungsbestand [Whg.],140,1990,1509
 64,Nürensdorf,Wohnungsbestand [Whg.],140,1991,1522
 64,Nürensdorf,Wohnungsbestand [Whg.],140,1992,1566
@@ -1517,6 +1562,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 64,Nürensdorf,Wohnungsbestand [Whg.],140,2020,2651
 64,Nürensdorf,Wohnungsbestand [Whg.],140,2021,2719
 64,Nürensdorf,Wohnungsbestand [Whg.],140,2022,2721
+64,Nürensdorf,Wohnungsbestand [Whg.],140,2023,2736
 65,Oberembrach,Wohnungsbestand [Whg.],140,1990,356
 65,Oberembrach,Wohnungsbestand [Whg.],140,1991,357
 65,Oberembrach,Wohnungsbestand [Whg.],140,1992,358
@@ -1550,6 +1596,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 65,Oberembrach,Wohnungsbestand [Whg.],140,2020,522
 65,Oberembrach,Wohnungsbestand [Whg.],140,2021,523
 65,Oberembrach,Wohnungsbestand [Whg.],140,2022,535
+65,Oberembrach,Wohnungsbestand [Whg.],140,2023,537
 66,Opfikon,Wohnungsbestand [Whg.],140,1990,5937
 66,Opfikon,Wohnungsbestand [Whg.],140,1991,6028
 66,Opfikon,Wohnungsbestand [Whg.],140,1992,6084
@@ -1583,6 +1630,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 66,Opfikon,Wohnungsbestand [Whg.],140,2020,10159
 66,Opfikon,Wohnungsbestand [Whg.],140,2021,10258
 66,Opfikon,Wohnungsbestand [Whg.],140,2022,10273
+66,Opfikon,Wohnungsbestand [Whg.],140,2023,10227
 67,Rafz,Wohnungsbestand [Whg.],140,1990,975
 67,Rafz,Wohnungsbestand [Whg.],140,1991,984
 67,Rafz,Wohnungsbestand [Whg.],140,1992,1020
@@ -1616,6 +1664,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 67,Rafz,Wohnungsbestand [Whg.],140,2020,2136
 67,Rafz,Wohnungsbestand [Whg.],140,2021,2178
 67,Rafz,Wohnungsbestand [Whg.],140,2022,2201
+67,Rafz,Wohnungsbestand [Whg.],140,2023,2203
 68,Rorbas,Wohnungsbestand [Whg.],140,1990,843
 68,Rorbas,Wohnungsbestand [Whg.],140,1991,848
 68,Rorbas,Wohnungsbestand [Whg.],140,1992,865
@@ -1649,6 +1698,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 68,Rorbas,Wohnungsbestand [Whg.],140,2020,1268
 68,Rorbas,Wohnungsbestand [Whg.],140,2021,1277
 68,Rorbas,Wohnungsbestand [Whg.],140,2022,1283
+68,Rorbas,Wohnungsbestand [Whg.],140,2023,1281
 69,Wallisellen,Wohnungsbestand [Whg.],140,1990,5083
 69,Wallisellen,Wohnungsbestand [Whg.],140,1991,5101
 69,Wallisellen,Wohnungsbestand [Whg.],140,1992,5186
@@ -1682,6 +1732,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 69,Wallisellen,Wohnungsbestand [Whg.],140,2020,8412
 69,Wallisellen,Wohnungsbestand [Whg.],140,2021,8428
 69,Wallisellen,Wohnungsbestand [Whg.],140,2022,8472
+69,Wallisellen,Wohnungsbestand [Whg.],140,2023,8502
 70,Wasterkingen,Wohnungsbestand [Whg.],140,1990,178
 70,Wasterkingen,Wohnungsbestand [Whg.],140,1991,189
 70,Wasterkingen,Wohnungsbestand [Whg.],140,1992,191
@@ -1715,6 +1766,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 70,Wasterkingen,Wohnungsbestand [Whg.],140,2020,275
 70,Wasterkingen,Wohnungsbestand [Whg.],140,2021,292
 70,Wasterkingen,Wohnungsbestand [Whg.],140,2022,292
+70,Wasterkingen,Wohnungsbestand [Whg.],140,2023,295
 71,Wil,Wohnungsbestand [Whg.],140,1990,413
 71,Wil,Wohnungsbestand [Whg.],140,1991,419
 71,Wil,Wohnungsbestand [Whg.],140,1992,433
@@ -1748,6 +1800,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 71,Wil,Wohnungsbestand [Whg.],140,2020,673
 71,Wil,Wohnungsbestand [Whg.],140,2021,675
 71,Wil,Wohnungsbestand [Whg.],140,2022,695
+71,Wil,Wohnungsbestand [Whg.],140,2023,698
 72,Winkel,Wohnungsbestand [Whg.],140,1990,913
 72,Winkel,Wohnungsbestand [Whg.],140,1991,960
 72,Winkel,Wohnungsbestand [Whg.],140,1992,998
@@ -1781,6 +1834,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 72,Winkel,Wohnungsbestand [Whg.],140,2020,2170
 72,Winkel,Wohnungsbestand [Whg.],140,2021,2292
 72,Winkel,Wohnungsbestand [Whg.],140,2022,2293
+72,Winkel,Wohnungsbestand [Whg.],140,2023,2375
 81,Bachs,Wohnungsbestand [Whg.],140,1990,184
 81,Bachs,Wohnungsbestand [Whg.],140,1991,186
 81,Bachs,Wohnungsbestand [Whg.],140,1992,192
@@ -1814,6 +1868,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 81,Bachs,Wohnungsbestand [Whg.],140,2020,316
 81,Bachs,Wohnungsbestand [Whg.],140,2021,317
 81,Bachs,Wohnungsbestand [Whg.],140,2022,324
+81,Bachs,Wohnungsbestand [Whg.],140,2023,332
 82,Boppelsen,Wohnungsbestand [Whg.],140,1990,302
 82,Boppelsen,Wohnungsbestand [Whg.],140,1991,301
 82,Boppelsen,Wohnungsbestand [Whg.],140,1992,309
@@ -1847,6 +1902,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 82,Boppelsen,Wohnungsbestand [Whg.],140,2020,635
 82,Boppelsen,Wohnungsbestand [Whg.],140,2021,637
 82,Boppelsen,Wohnungsbestand [Whg.],140,2022,641
+82,Boppelsen,Wohnungsbestand [Whg.],140,2023,643
 83,Buchs,Wohnungsbestand [Whg.],140,1990,1393
 83,Buchs,Wohnungsbestand [Whg.],140,1991,1450
 83,Buchs,Wohnungsbestand [Whg.],140,1992,1454
@@ -1880,6 +1936,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 83,Buchs,Wohnungsbestand [Whg.],140,2020,3040
 83,Buchs,Wohnungsbestand [Whg.],140,2021,3048
 83,Buchs,Wohnungsbestand [Whg.],140,2022,3051
+83,Buchs,Wohnungsbestand [Whg.],140,2023,3069
 84,Dällikon,Wohnungsbestand [Whg.],140,1990,1034
 84,Dällikon,Wohnungsbestand [Whg.],140,1991,1044
 84,Dällikon,Wohnungsbestand [Whg.],140,1992,1071
@@ -1913,6 +1970,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 84,Dällikon,Wohnungsbestand [Whg.],140,2020,1914
 84,Dällikon,Wohnungsbestand [Whg.],140,2021,1920
 84,Dällikon,Wohnungsbestand [Whg.],140,2022,1921
+84,Dällikon,Wohnungsbestand [Whg.],140,2023,1925
 85,Dänikon,Wohnungsbestand [Whg.],140,1990,450
 85,Dänikon,Wohnungsbestand [Whg.],140,1991,474
 85,Dänikon,Wohnungsbestand [Whg.],140,1992,530
@@ -1946,6 +2004,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 85,Dänikon,Wohnungsbestand [Whg.],140,2020,814
 85,Dänikon,Wohnungsbestand [Whg.],140,2021,813
 85,Dänikon,Wohnungsbestand [Whg.],140,2022,819
+85,Dänikon,Wohnungsbestand [Whg.],140,2023,820
 86,Dielsdorf,Wohnungsbestand [Whg.],140,1990,1769
 86,Dielsdorf,Wohnungsbestand [Whg.],140,1991,1827
 86,Dielsdorf,Wohnungsbestand [Whg.],140,1992,1847
@@ -1979,6 +2038,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 86,Dielsdorf,Wohnungsbestand [Whg.],140,2020,2880
 86,Dielsdorf,Wohnungsbestand [Whg.],140,2021,2921
 86,Dielsdorf,Wohnungsbestand [Whg.],140,2022,2894
+86,Dielsdorf,Wohnungsbestand [Whg.],140,2023,3126
 87,Hüttikon,Wohnungsbestand [Whg.],140,1990,154
 87,Hüttikon,Wohnungsbestand [Whg.],140,1991,155
 87,Hüttikon,Wohnungsbestand [Whg.],140,1992,156
@@ -2012,6 +2072,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 87,Hüttikon,Wohnungsbestand [Whg.],140,2020,378
 87,Hüttikon,Wohnungsbestand [Whg.],140,2021,379
 87,Hüttikon,Wohnungsbestand [Whg.],140,2022,391
+87,Hüttikon,Wohnungsbestand [Whg.],140,2023,393
 88,Neerach,Wohnungsbestand [Whg.],140,1990,683
 88,Neerach,Wohnungsbestand [Whg.],140,1991,694
 88,Neerach,Wohnungsbestand [Whg.],140,1992,729
@@ -2045,6 +2106,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 88,Neerach,Wohnungsbestand [Whg.],140,2020,1594
 88,Neerach,Wohnungsbestand [Whg.],140,2021,1602
 88,Neerach,Wohnungsbestand [Whg.],140,2022,1623
+88,Neerach,Wohnungsbestand [Whg.],140,2023,1624
 89,Niederglatt,Wohnungsbestand [Whg.],140,1990,1357
 89,Niederglatt,Wohnungsbestand [Whg.],140,1991,1359
 89,Niederglatt,Wohnungsbestand [Whg.],140,1992,1389
@@ -2078,6 +2140,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 89,Niederglatt,Wohnungsbestand [Whg.],140,2020,2210
 89,Niederglatt,Wohnungsbestand [Whg.],140,2021,2328
 89,Niederglatt,Wohnungsbestand [Whg.],140,2022,2358
+89,Niederglatt,Wohnungsbestand [Whg.],140,2023,2462
 90,Niederhasli,Wohnungsbestand [Whg.],140,1990,2254
 90,Niederhasli,Wohnungsbestand [Whg.],140,1991,2269
 90,Niederhasli,Wohnungsbestand [Whg.],140,1992,2292
@@ -2111,6 +2174,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 90,Niederhasli,Wohnungsbestand [Whg.],140,2020,4113
 90,Niederhasli,Wohnungsbestand [Whg.],140,2021,4142
 90,Niederhasli,Wohnungsbestand [Whg.],140,2022,4161
+90,Niederhasli,Wohnungsbestand [Whg.],140,2023,4163
 91,Niederweningen,Wohnungsbestand [Whg.],140,1990,608
 91,Niederweningen,Wohnungsbestand [Whg.],140,1991,628
 91,Niederweningen,Wohnungsbestand [Whg.],140,1992,645
@@ -2144,6 +2208,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 91,Niederweningen,Wohnungsbestand [Whg.],140,2020,1330
 91,Niederweningen,Wohnungsbestand [Whg.],140,2021,1347
 91,Niederweningen,Wohnungsbestand [Whg.],140,2022,1354
+91,Niederweningen,Wohnungsbestand [Whg.],140,2023,1449
 92,Oberglatt,Wohnungsbestand [Whg.],140,1990,1910
 92,Oberglatt,Wohnungsbestand [Whg.],140,1991,1936
 92,Oberglatt,Wohnungsbestand [Whg.],140,1992,1970
@@ -2177,6 +2242,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 92,Oberglatt,Wohnungsbestand [Whg.],140,2020,3287
 92,Oberglatt,Wohnungsbestand [Whg.],140,2021,3357
 92,Oberglatt,Wohnungsbestand [Whg.],140,2022,3369
+92,Oberglatt,Wohnungsbestand [Whg.],140,2023,3388
 93,Oberweningen,Wohnungsbestand [Whg.],140,1990,429
 93,Oberweningen,Wohnungsbestand [Whg.],140,1991,443
 93,Oberweningen,Wohnungsbestand [Whg.],140,1992,456
@@ -2210,6 +2276,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 93,Oberweningen,Wohnungsbestand [Whg.],140,2020,829
 93,Oberweningen,Wohnungsbestand [Whg.],140,2021,844
 93,Oberweningen,Wohnungsbestand [Whg.],140,2022,843
+93,Oberweningen,Wohnungsbestand [Whg.],140,2023,843
 94,Otelfingen,Wohnungsbestand [Whg.],140,1990,590
 94,Otelfingen,Wohnungsbestand [Whg.],140,1991,592
 94,Otelfingen,Wohnungsbestand [Whg.],140,1992,593
@@ -2243,6 +2310,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 94,Otelfingen,Wohnungsbestand [Whg.],140,2020,1289
 94,Otelfingen,Wohnungsbestand [Whg.],140,2021,1301
 94,Otelfingen,Wohnungsbestand [Whg.],140,2022,1303
+94,Otelfingen,Wohnungsbestand [Whg.],140,2023,1310
 95,Regensberg,Wohnungsbestand [Whg.],140,1990,243
 95,Regensberg,Wohnungsbestand [Whg.],140,1991,243
 95,Regensberg,Wohnungsbestand [Whg.],140,1992,243
@@ -2276,6 +2344,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 95,Regensberg,Wohnungsbestand [Whg.],140,2020,264
 95,Regensberg,Wohnungsbestand [Whg.],140,2021,263
 95,Regensberg,Wohnungsbestand [Whg.],140,2022,271
+95,Regensberg,Wohnungsbestand [Whg.],140,2023,271
 96,Regensdorf,Wohnungsbestand [Whg.],140,1990,5535
 96,Regensdorf,Wohnungsbestand [Whg.],140,1991,5563
 96,Regensdorf,Wohnungsbestand [Whg.],140,1992,5612
@@ -2309,6 +2378,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 96,Regensdorf,Wohnungsbestand [Whg.],140,2020,8477
 96,Regensdorf,Wohnungsbestand [Whg.],140,2021,8564
 96,Regensdorf,Wohnungsbestand [Whg.],140,2022,8730
+96,Regensdorf,Wohnungsbestand [Whg.],140,2023,9379
 97,Rümlang,Wohnungsbestand [Whg.],140,1990,2339
 97,Rümlang,Wohnungsbestand [Whg.],140,1991,2369
 97,Rümlang,Wohnungsbestand [Whg.],140,1992,2392
@@ -2342,6 +2412,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 97,Rümlang,Wohnungsbestand [Whg.],140,2020,3732
 97,Rümlang,Wohnungsbestand [Whg.],140,2021,3738
 97,Rümlang,Wohnungsbestand [Whg.],140,2022,3743
+97,Rümlang,Wohnungsbestand [Whg.],140,2023,3793
 98,Schleinikon,Wohnungsbestand [Whg.],140,1990,207
 98,Schleinikon,Wohnungsbestand [Whg.],140,1991,213
 98,Schleinikon,Wohnungsbestand [Whg.],140,1992,218
@@ -2375,6 +2446,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 98,Schleinikon,Wohnungsbestand [Whg.],140,2020,411
 98,Schleinikon,Wohnungsbestand [Whg.],140,2021,410
 98,Schleinikon,Wohnungsbestand [Whg.],140,2022,417
+98,Schleinikon,Wohnungsbestand [Whg.],140,2023,416
 99,Schöfflisdorf,Wohnungsbestand [Whg.],140,1990,374
 99,Schöfflisdorf,Wohnungsbestand [Whg.],140,1991,376
 99,Schöfflisdorf,Wohnungsbestand [Whg.],140,1992,397
@@ -2408,6 +2480,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 99,Schöfflisdorf,Wohnungsbestand [Whg.],140,2020,648
 99,Schöfflisdorf,Wohnungsbestand [Whg.],140,2021,650
 99,Schöfflisdorf,Wohnungsbestand [Whg.],140,2022,656
+99,Schöfflisdorf,Wohnungsbestand [Whg.],140,2023,657
 100,Stadel,Wohnungsbestand [Whg.],140,1990,541
 100,Stadel,Wohnungsbestand [Whg.],140,1991,558
 100,Stadel,Wohnungsbestand [Whg.],140,1992,569
@@ -2441,6 +2514,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 100,Stadel,Wohnungsbestand [Whg.],140,2020,1101
 100,Stadel,Wohnungsbestand [Whg.],140,2021,1103
 100,Stadel,Wohnungsbestand [Whg.],140,2022,1138
+100,Stadel,Wohnungsbestand [Whg.],140,2023,1142
 101,Steinmaur,Wohnungsbestand [Whg.],140,1990,989
 101,Steinmaur,Wohnungsbestand [Whg.],140,1991,999
 101,Steinmaur,Wohnungsbestand [Whg.],140,1992,1060
@@ -2474,6 +2548,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 101,Steinmaur,Wohnungsbestand [Whg.],140,2020,1642
 101,Steinmaur,Wohnungsbestand [Whg.],140,2021,1646
 101,Steinmaur,Wohnungsbestand [Whg.],140,2022,1657
+101,Steinmaur,Wohnungsbestand [Whg.],140,2023,1691
 102,Weiach,Wohnungsbestand [Whg.],140,1990,283
 102,Weiach,Wohnungsbestand [Whg.],140,1991,300
 102,Weiach,Wohnungsbestand [Whg.],140,1992,308
@@ -2507,6 +2582,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 102,Weiach,Wohnungsbestand [Whg.],140,2020,963
 102,Weiach,Wohnungsbestand [Whg.],140,2021,997
 102,Weiach,Wohnungsbestand [Whg.],140,2022,1000
+102,Weiach,Wohnungsbestand [Whg.],140,2023,1006
 111,Bäretswil,Wohnungsbestand [Whg.],140,1990,1469
 111,Bäretswil,Wohnungsbestand [Whg.],140,1991,1482
 111,Bäretswil,Wohnungsbestand [Whg.],140,1992,1500
@@ -2540,6 +2616,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 111,Bäretswil,Wohnungsbestand [Whg.],140,2020,2344
 111,Bäretswil,Wohnungsbestand [Whg.],140,2021,2376
 111,Bäretswil,Wohnungsbestand [Whg.],140,2022,2387
+111,Bäretswil,Wohnungsbestand [Whg.],140,2023,2391
 112,Bubikon,Wohnungsbestand [Whg.],140,1990,1625
 112,Bubikon,Wohnungsbestand [Whg.],140,1991,1682
 112,Bubikon,Wohnungsbestand [Whg.],140,1992,1763
@@ -2573,6 +2650,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 112,Bubikon,Wohnungsbestand [Whg.],140,2020,3299
 112,Bubikon,Wohnungsbestand [Whg.],140,2021,3331
 112,Bubikon,Wohnungsbestand [Whg.],140,2022,3404
+112,Bubikon,Wohnungsbestand [Whg.],140,2023,3420
 113,Dürnten,Wohnungsbestand [Whg.],140,1990,2238
 113,Dürnten,Wohnungsbestand [Whg.],140,1991,2284
 113,Dürnten,Wohnungsbestand [Whg.],140,1992,2295
@@ -2606,6 +2684,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 113,Dürnten,Wohnungsbestand [Whg.],140,2020,3473
 113,Dürnten,Wohnungsbestand [Whg.],140,2021,3490
 113,Dürnten,Wohnungsbestand [Whg.],140,2022,3556
+113,Dürnten,Wohnungsbestand [Whg.],140,2023,3563
 114,Fischenthal,Wohnungsbestand [Whg.],140,1990,732
 114,Fischenthal,Wohnungsbestand [Whg.],140,1991,744
 114,Fischenthal,Wohnungsbestand [Whg.],140,1992,783
@@ -2639,6 +2718,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 114,Fischenthal,Wohnungsbestand [Whg.],140,2020,1182
 114,Fischenthal,Wohnungsbestand [Whg.],140,2021,1244
 114,Fischenthal,Wohnungsbestand [Whg.],140,2022,1263
+114,Fischenthal,Wohnungsbestand [Whg.],140,2023,1263
 115,Gossau,Wohnungsbestand [Whg.],140,1990,2662
 115,Gossau,Wohnungsbestand [Whg.],140,1991,2696
 115,Gossau,Wohnungsbestand [Whg.],140,1992,2831
@@ -2672,6 +2752,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 115,Gossau,Wohnungsbestand [Whg.],140,2020,4721
 115,Gossau,Wohnungsbestand [Whg.],140,2021,4715
 115,Gossau,Wohnungsbestand [Whg.],140,2022,4803
+115,Gossau,Wohnungsbestand [Whg.],140,2023,4872
 116,Grüningen,Wohnungsbestand [Whg.],140,1990,976
 116,Grüningen,Wohnungsbestand [Whg.],140,1991,984
 116,Grüningen,Wohnungsbestand [Whg.],140,1992,1005
@@ -2705,6 +2786,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 116,Grüningen,Wohnungsbestand [Whg.],140,2020,1740
 116,Grüningen,Wohnungsbestand [Whg.],140,2021,1772
 116,Grüningen,Wohnungsbestand [Whg.],140,2022,1779
+116,Grüningen,Wohnungsbestand [Whg.],140,2023,1780
 117,Hinwil,Wohnungsbestand [Whg.],140,1990,3310
 117,Hinwil,Wohnungsbestand [Whg.],140,1991,3318
 117,Hinwil,Wohnungsbestand [Whg.],140,1992,3335
@@ -2738,6 +2820,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 117,Hinwil,Wohnungsbestand [Whg.],140,2020,5370
 117,Hinwil,Wohnungsbestand [Whg.],140,2021,5443
 117,Hinwil,Wohnungsbestand [Whg.],140,2022,5460
+117,Hinwil,Wohnungsbestand [Whg.],140,2023,5541
 118,Rüti,Wohnungsbestand [Whg.],140,1990,4377
 118,Rüti,Wohnungsbestand [Whg.],140,1991,4403
 118,Rüti,Wohnungsbestand [Whg.],140,1992,4415
@@ -2771,6 +2854,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 118,Rüti,Wohnungsbestand [Whg.],140,2020,6029
 118,Rüti,Wohnungsbestand [Whg.],140,2021,6106
 118,Rüti,Wohnungsbestand [Whg.],140,2022,6112
+118,Rüti,Wohnungsbestand [Whg.],140,2023,6160
 119,Seegräben,Wohnungsbestand [Whg.],140,1990,382
 119,Seegräben,Wohnungsbestand [Whg.],140,1991,414
 119,Seegräben,Wohnungsbestand [Whg.],140,1992,414
@@ -2804,6 +2888,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 119,Seegräben,Wohnungsbestand [Whg.],140,2020,666
 119,Seegräben,Wohnungsbestand [Whg.],140,2021,679
 119,Seegräben,Wohnungsbestand [Whg.],140,2022,676
+119,Seegräben,Wohnungsbestand [Whg.],140,2023,691
 120,Wald,Wohnungsbestand [Whg.],140,1990,3364
 120,Wald,Wohnungsbestand [Whg.],140,1991,3406
 120,Wald,Wohnungsbestand [Whg.],140,1992,3424
@@ -2837,6 +2922,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 120,Wald,Wohnungsbestand [Whg.],140,2020,4941
 120,Wald,Wohnungsbestand [Whg.],140,2021,4992
 120,Wald,Wohnungsbestand [Whg.],140,2022,5016
+120,Wald,Wohnungsbestand [Whg.],140,2023,5058
 121,Wetzikon,Wohnungsbestand [Whg.],140,1990,6930
 121,Wetzikon,Wohnungsbestand [Whg.],140,1991,7046
 121,Wetzikon,Wohnungsbestand [Whg.],140,1992,7132
@@ -2870,6 +2956,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 121,Wetzikon,Wohnungsbestand [Whg.],140,2020,12046
 121,Wetzikon,Wohnungsbestand [Whg.],140,2021,12312
 121,Wetzikon,Wohnungsbestand [Whg.],140,2022,12505
+121,Wetzikon,Wohnungsbestand [Whg.],140,2023,12645
 131,Adliswil,Wohnungsbestand [Whg.],140,1990,7250
 131,Adliswil,Wohnungsbestand [Whg.],140,1991,7309
 131,Adliswil,Wohnungsbestand [Whg.],140,1992,7394
@@ -2903,6 +2990,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 131,Adliswil,Wohnungsbestand [Whg.],140,2020,9381
 131,Adliswil,Wohnungsbestand [Whg.],140,2021,9352
 131,Adliswil,Wohnungsbestand [Whg.],140,2022,9485
+131,Adliswil,Wohnungsbestand [Whg.],140,2023,9622
 135,Kilchberg,Wohnungsbestand [Whg.],140,1990,3439
 135,Kilchberg,Wohnungsbestand [Whg.],140,1991,3488
 135,Kilchberg,Wohnungsbestand [Whg.],140,1992,3494
@@ -2936,6 +3024,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 135,Kilchberg,Wohnungsbestand [Whg.],140,2020,4636
 135,Kilchberg,Wohnungsbestand [Whg.],140,2021,4675
 135,Kilchberg,Wohnungsbestand [Whg.],140,2022,4717
+135,Kilchberg,Wohnungsbestand [Whg.],140,2023,4717
 136,Langnau a.A.,Wohnungsbestand [Whg.],140,1990,2708
 136,Langnau a.A.,Wohnungsbestand [Whg.],140,1991,2747
 136,Langnau a.A.,Wohnungsbestand [Whg.],140,1992,2756
@@ -2969,6 +3058,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 136,Langnau a.A.,Wohnungsbestand [Whg.],140,2020,3614
 136,Langnau a.A.,Wohnungsbestand [Whg.],140,2021,3643
 136,Langnau a.A.,Wohnungsbestand [Whg.],140,2022,3663
+136,Langnau a.A.,Wohnungsbestand [Whg.],140,2023,3728
 137,Oberrieden,Wohnungsbestand [Whg.],140,1990,1962
 137,Oberrieden,Wohnungsbestand [Whg.],140,1991,1969
 137,Oberrieden,Wohnungsbestand [Whg.],140,1992,1985
@@ -3002,6 +3092,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 137,Oberrieden,Wohnungsbestand [Whg.],140,2020,2460
 137,Oberrieden,Wohnungsbestand [Whg.],140,2021,2464
 137,Oberrieden,Wohnungsbestand [Whg.],140,2022,2574
+137,Oberrieden,Wohnungsbestand [Whg.],140,2023,2593
 138,Richterswil,Wohnungsbestand [Whg.],140,1990,4068
 138,Richterswil,Wohnungsbestand [Whg.],140,1991,4085
 138,Richterswil,Wohnungsbestand [Whg.],140,1992,4107
@@ -3035,6 +3126,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 138,Richterswil,Wohnungsbestand [Whg.],140,2020,6442
 138,Richterswil,Wohnungsbestand [Whg.],140,2021,6525
 138,Richterswil,Wohnungsbestand [Whg.],140,2022,6610
+138,Richterswil,Wohnungsbestand [Whg.],140,2023,6643
 139,Rüschlikon,Wohnungsbestand [Whg.],140,1990,2124
 139,Rüschlikon,Wohnungsbestand [Whg.],140,1991,2154
 139,Rüschlikon,Wohnungsbestand [Whg.],140,1992,2161
@@ -3068,6 +3160,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 139,Rüschlikon,Wohnungsbestand [Whg.],140,2020,2843
 139,Rüschlikon,Wohnungsbestand [Whg.],140,2021,2842
 139,Rüschlikon,Wohnungsbestand [Whg.],140,2022,2897
+139,Rüschlikon,Wohnungsbestand [Whg.],140,2023,2917
 141,Thalwil,Wohnungsbestand [Whg.],140,1990,7405
 141,Thalwil,Wohnungsbestand [Whg.],140,1991,7437
 141,Thalwil,Wohnungsbestand [Whg.],140,1992,7489
@@ -3101,6 +3194,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 141,Thalwil,Wohnungsbestand [Whg.],140,2020,9204
 141,Thalwil,Wohnungsbestand [Whg.],140,2021,9307
 141,Thalwil,Wohnungsbestand [Whg.],140,2022,9301
+141,Thalwil,Wohnungsbestand [Whg.],140,2023,9360
 151,Erlenbach,Wohnungsbestand [Whg.],140,1990,1905
 151,Erlenbach,Wohnungsbestand [Whg.],140,1991,1919
 151,Erlenbach,Wohnungsbestand [Whg.],140,1992,1952
@@ -3134,6 +3228,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 151,Erlenbach,Wohnungsbestand [Whg.],140,2020,2664
 151,Erlenbach,Wohnungsbestand [Whg.],140,2021,2651
 151,Erlenbach,Wohnungsbestand [Whg.],140,2022,2689
+151,Erlenbach,Wohnungsbestand [Whg.],140,2023,2695
 152,Herrliberg,Wohnungsbestand [Whg.],140,1990,1972
 152,Herrliberg,Wohnungsbestand [Whg.],140,1991,2037
 152,Herrliberg,Wohnungsbestand [Whg.],140,1992,2049
@@ -3167,6 +3262,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 152,Herrliberg,Wohnungsbestand [Whg.],140,2020,3137
 152,Herrliberg,Wohnungsbestand [Whg.],140,2021,3167
 152,Herrliberg,Wohnungsbestand [Whg.],140,2022,3201
+152,Herrliberg,Wohnungsbestand [Whg.],140,2023,3213
 153,Hombrechtikon,Wohnungsbestand [Whg.],140,1990,2603
 153,Hombrechtikon,Wohnungsbestand [Whg.],140,1991,2613
 153,Hombrechtikon,Wohnungsbestand [Whg.],140,1992,2622
@@ -3200,6 +3296,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 153,Hombrechtikon,Wohnungsbestand [Whg.],140,2020,4104
 153,Hombrechtikon,Wohnungsbestand [Whg.],140,2021,4128
 153,Hombrechtikon,Wohnungsbestand [Whg.],140,2022,4199
+153,Hombrechtikon,Wohnungsbestand [Whg.],140,2023,4217
 154,Küsnacht,Wohnungsbestand [Whg.],140,1990,5584
 154,Küsnacht,Wohnungsbestand [Whg.],140,1991,5623
 154,Küsnacht,Wohnungsbestand [Whg.],140,1992,5659
@@ -3233,6 +3330,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 154,Küsnacht,Wohnungsbestand [Whg.],140,2020,7476
 154,Küsnacht,Wohnungsbestand [Whg.],140,2021,7490
 154,Küsnacht,Wohnungsbestand [Whg.],140,2022,7493
+154,Küsnacht,Wohnungsbestand [Whg.],140,2023,7511
 155,Männedorf,Wohnungsbestand [Whg.],140,1990,3181
 155,Männedorf,Wohnungsbestand [Whg.],140,1991,3183
 155,Männedorf,Wohnungsbestand [Whg.],140,1992,3213
@@ -3266,6 +3364,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 155,Männedorf,Wohnungsbestand [Whg.],140,2020,5411
 155,Männedorf,Wohnungsbestand [Whg.],140,2021,5439
 155,Männedorf,Wohnungsbestand [Whg.],140,2022,5439
+155,Männedorf,Wohnungsbestand [Whg.],140,2023,5523
 156,Meilen,Wohnungsbestand [Whg.],140,1990,4788
 156,Meilen,Wohnungsbestand [Whg.],140,1991,4809
 156,Meilen,Wohnungsbestand [Whg.],140,1992,4840
@@ -3299,6 +3398,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 156,Meilen,Wohnungsbestand [Whg.],140,2020,7015
 156,Meilen,Wohnungsbestand [Whg.],140,2021,7089
 156,Meilen,Wohnungsbestand [Whg.],140,2022,7099
+156,Meilen,Wohnungsbestand [Whg.],140,2023,7087
 157,Oetwil a.S.,Wohnungsbestand [Whg.],140,1990,1349
 157,Oetwil a.S.,Wohnungsbestand [Whg.],140,1991,1388
 157,Oetwil a.S.,Wohnungsbestand [Whg.],140,1992,1394
@@ -3332,6 +3432,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 157,Oetwil a.S.,Wohnungsbestand [Whg.],140,2020,2248
 157,Oetwil a.S.,Wohnungsbestand [Whg.],140,2021,2291
 157,Oetwil a.S.,Wohnungsbestand [Whg.],140,2022,2298
+157,Oetwil a.S.,Wohnungsbestand [Whg.],140,2023,2327
 158,Stäfa,Wohnungsbestand [Whg.],140,1990,4513
 158,Stäfa,Wohnungsbestand [Whg.],140,1991,4556
 158,Stäfa,Wohnungsbestand [Whg.],140,1992,4614
@@ -3365,6 +3466,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 158,Stäfa,Wohnungsbestand [Whg.],140,2020,7238
 158,Stäfa,Wohnungsbestand [Whg.],140,2021,7283
 158,Stäfa,Wohnungsbestand [Whg.],140,2022,7368
+158,Stäfa,Wohnungsbestand [Whg.],140,2023,7408
 159,Uetikon a.S.,Wohnungsbestand [Whg.],140,1990,1512
 159,Uetikon a.S.,Wohnungsbestand [Whg.],140,1991,1518
 159,Uetikon a.S.,Wohnungsbestand [Whg.],140,1992,1521
@@ -3398,6 +3500,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 159,Uetikon a.S.,Wohnungsbestand [Whg.],140,2020,2838
 159,Uetikon a.S.,Wohnungsbestand [Whg.],140,2021,2858
 159,Uetikon a.S.,Wohnungsbestand [Whg.],140,2022,2883
+159,Uetikon a.S.,Wohnungsbestand [Whg.],140,2023,2884
 160,Zumikon,Wohnungsbestand [Whg.],140,1990,1944
 160,Zumikon,Wohnungsbestand [Whg.],140,1991,1955
 160,Zumikon,Wohnungsbestand [Whg.],140,1992,1971
@@ -3431,6 +3534,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 160,Zumikon,Wohnungsbestand [Whg.],140,2020,2669
 160,Zumikon,Wohnungsbestand [Whg.],140,2021,2675
 160,Zumikon,Wohnungsbestand [Whg.],140,2022,2687
+160,Zumikon,Wohnungsbestand [Whg.],140,2023,2701
 161,Zollikon,Wohnungsbestand [Whg.],140,1990,5356
 161,Zollikon,Wohnungsbestand [Whg.],140,1991,5449
 161,Zollikon,Wohnungsbestand [Whg.],140,1992,5451
@@ -3464,6 +3568,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 161,Zollikon,Wohnungsbestand [Whg.],140,2020,6796
 161,Zollikon,Wohnungsbestand [Whg.],140,2021,6873
 161,Zollikon,Wohnungsbestand [Whg.],140,2022,6913
+161,Zollikon,Wohnungsbestand [Whg.],140,2023,6940
 172,Fehraltorf,Wohnungsbestand [Whg.],140,1990,1559
 172,Fehraltorf,Wohnungsbestand [Whg.],140,1991,1590
 172,Fehraltorf,Wohnungsbestand [Whg.],140,1992,1624
@@ -3497,6 +3602,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 172,Fehraltorf,Wohnungsbestand [Whg.],140,2020,2923
 172,Fehraltorf,Wohnungsbestand [Whg.],140,2021,2926
 172,Fehraltorf,Wohnungsbestand [Whg.],140,2022,2999
+172,Fehraltorf,Wohnungsbestand [Whg.],140,2023,3045
 173,Hittnau,Wohnungsbestand [Whg.],140,1990,779
 173,Hittnau,Wohnungsbestand [Whg.],140,1991,801
 173,Hittnau,Wohnungsbestand [Whg.],140,1992,840
@@ -3530,6 +3636,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 173,Hittnau,Wohnungsbestand [Whg.],140,2020,1674
 173,Hittnau,Wohnungsbestand [Whg.],140,2021,1697
 173,Hittnau,Wohnungsbestand [Whg.],140,2022,1717
+173,Hittnau,Wohnungsbestand [Whg.],140,2023,1765
 176,Lindau,Wohnungsbestand [Whg.],140,1990,1228
 176,Lindau,Wohnungsbestand [Whg.],140,1991,1246
 176,Lindau,Wohnungsbestand [Whg.],140,1992,1265
@@ -3563,6 +3670,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 176,Lindau,Wohnungsbestand [Whg.],140,2020,2470
 176,Lindau,Wohnungsbestand [Whg.],140,2021,2482
 176,Lindau,Wohnungsbestand [Whg.],140,2022,2509
+176,Lindau,Wohnungsbestand [Whg.],140,2023,2558
 177,Pfäffikon,Wohnungsbestand [Whg.],140,1990,3526
 177,Pfäffikon,Wohnungsbestand [Whg.],140,1991,3565
 177,Pfäffikon,Wohnungsbestand [Whg.],140,1992,3595
@@ -3596,6 +3704,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 177,Pfäffikon,Wohnungsbestand [Whg.],140,2020,5872
 177,Pfäffikon,Wohnungsbestand [Whg.],140,2021,5979
 177,Pfäffikon,Wohnungsbestand [Whg.],140,2022,5995
+177,Pfäffikon,Wohnungsbestand [Whg.],140,2023,6025
 178,Russikon,Wohnungsbestand [Whg.],140,1990,1277
 178,Russikon,Wohnungsbestand [Whg.],140,1991,1284
 178,Russikon,Wohnungsbestand [Whg.],140,1992,1309
@@ -3629,6 +3738,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 178,Russikon,Wohnungsbestand [Whg.],140,2020,1935
 178,Russikon,Wohnungsbestand [Whg.],140,2021,1963
 178,Russikon,Wohnungsbestand [Whg.],140,2022,2006
+178,Russikon,Wohnungsbestand [Whg.],140,2023,2014
 180,Weisslingen,Wohnungsbestand [Whg.],140,1990,883
 180,Weisslingen,Wohnungsbestand [Whg.],140,1991,905
 180,Weisslingen,Wohnungsbestand [Whg.],140,1992,911
@@ -3662,6 +3772,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 180,Weisslingen,Wohnungsbestand [Whg.],140,2020,1517
 180,Weisslingen,Wohnungsbestand [Whg.],140,2021,1556
 180,Weisslingen,Wohnungsbestand [Whg.],140,2022,1584
+180,Weisslingen,Wohnungsbestand [Whg.],140,2023,1595
 181,Wila,Wohnungsbestand [Whg.],140,1990,609
 181,Wila,Wohnungsbestand [Whg.],140,1991,634
 181,Wila,Wohnungsbestand [Whg.],140,1992,642
@@ -3695,6 +3806,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 181,Wila,Wohnungsbestand [Whg.],140,2020,967
 181,Wila,Wohnungsbestand [Whg.],140,2021,972
 181,Wila,Wohnungsbestand [Whg.],140,2022,982
+181,Wila,Wohnungsbestand [Whg.],140,2023,999
 182,Wildberg,Wohnungsbestand [Whg.],140,1990,272
 182,Wildberg,Wohnungsbestand [Whg.],140,1991,276
 182,Wildberg,Wohnungsbestand [Whg.],140,1992,280
@@ -3728,6 +3840,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 182,Wildberg,Wohnungsbestand [Whg.],140,2020,474
 182,Wildberg,Wohnungsbestand [Whg.],140,2021,474
 182,Wildberg,Wohnungsbestand [Whg.],140,2022,476
+182,Wildberg,Wohnungsbestand [Whg.],140,2023,482
 191,Dübendorf,Wohnungsbestand [Whg.],140,1990,9632
 191,Dübendorf,Wohnungsbestand [Whg.],140,1991,9681
 191,Dübendorf,Wohnungsbestand [Whg.],140,1992,9957
@@ -3761,6 +3874,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 191,Dübendorf,Wohnungsbestand [Whg.],140,2020,14723
 191,Dübendorf,Wohnungsbestand [Whg.],140,2021,15193
 191,Dübendorf,Wohnungsbestand [Whg.],140,2022,15246
+191,Dübendorf,Wohnungsbestand [Whg.],140,2023,15995
 192,Egg,Wohnungsbestand [Whg.],140,1990,2549
 192,Egg,Wohnungsbestand [Whg.],140,1991,2562
 192,Egg,Wohnungsbestand [Whg.],140,1992,2609
@@ -3794,6 +3908,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 192,Egg,Wohnungsbestand [Whg.],140,2020,4128
 192,Egg,Wohnungsbestand [Whg.],140,2021,4123
 192,Egg,Wohnungsbestand [Whg.],140,2022,4124
+192,Egg,Wohnungsbestand [Whg.],140,2023,4138
 193,Fällanden,Wohnungsbestand [Whg.],140,1990,2659
 193,Fällanden,Wohnungsbestand [Whg.],140,1991,2693
 193,Fällanden,Wohnungsbestand [Whg.],140,1992,2697
@@ -3827,6 +3942,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 193,Fällanden,Wohnungsbestand [Whg.],140,2020,4208
 193,Fällanden,Wohnungsbestand [Whg.],140,2021,4323
 193,Fällanden,Wohnungsbestand [Whg.],140,2022,4373
+193,Fällanden,Wohnungsbestand [Whg.],140,2023,4386
 194,Greifensee,Wohnungsbestand [Whg.],140,1990,1978
 194,Greifensee,Wohnungsbestand [Whg.],140,1991,1983
 194,Greifensee,Wohnungsbestand [Whg.],140,1992,1992
@@ -3860,6 +3976,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 194,Greifensee,Wohnungsbestand [Whg.],140,2020,2387
 194,Greifensee,Wohnungsbestand [Whg.],140,2021,2387
 194,Greifensee,Wohnungsbestand [Whg.],140,2022,2399
+194,Greifensee,Wohnungsbestand [Whg.],140,2023,2399
 195,Maur,Wohnungsbestand [Whg.],140,1990,2831
 195,Maur,Wohnungsbestand [Whg.],140,1991,2869
 195,Maur,Wohnungsbestand [Whg.],140,1992,2889
@@ -3893,6 +4010,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 195,Maur,Wohnungsbestand [Whg.],140,2020,5021
 195,Maur,Wohnungsbestand [Whg.],140,2021,5038
 195,Maur,Wohnungsbestand [Whg.],140,2022,5055
+195,Maur,Wohnungsbestand [Whg.],140,2023,5063
 196,Mönchaltorf,Wohnungsbestand [Whg.],140,1990,1258
 196,Mönchaltorf,Wohnungsbestand [Whg.],140,1991,1259
 196,Mönchaltorf,Wohnungsbestand [Whg.],140,1992,1259
@@ -3926,6 +4044,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 196,Mönchaltorf,Wohnungsbestand [Whg.],140,2020,1864
 196,Mönchaltorf,Wohnungsbestand [Whg.],140,2021,1886
 196,Mönchaltorf,Wohnungsbestand [Whg.],140,2022,1889
+196,Mönchaltorf,Wohnungsbestand [Whg.],140,2023,1938
 197,Schwerzenbach,Wohnungsbestand [Whg.],140,1990,1601
 197,Schwerzenbach,Wohnungsbestand [Whg.],140,1991,1630
 197,Schwerzenbach,Wohnungsbestand [Whg.],140,1992,1649
@@ -3959,6 +4078,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 197,Schwerzenbach,Wohnungsbestand [Whg.],140,2020,2440
 197,Schwerzenbach,Wohnungsbestand [Whg.],140,2021,2438
 197,Schwerzenbach,Wohnungsbestand [Whg.],140,2022,2448
+197,Schwerzenbach,Wohnungsbestand [Whg.],140,2023,2457
 198,Uster,Wohnungsbestand [Whg.],140,1990,10350
 198,Uster,Wohnungsbestand [Whg.],140,1991,10513
 198,Uster,Wohnungsbestand [Whg.],140,1992,10749
@@ -3992,6 +4112,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 198,Uster,Wohnungsbestand [Whg.],140,2020,16947
 198,Uster,Wohnungsbestand [Whg.],140,2021,17090
 198,Uster,Wohnungsbestand [Whg.],140,2022,17134
+198,Uster,Wohnungsbestand [Whg.],140,2023,17441
 199,Volketswil,Wohnungsbestand [Whg.],140,1990,4814
 199,Volketswil,Wohnungsbestand [Whg.],140,1991,4848
 199,Volketswil,Wohnungsbestand [Whg.],140,1992,4978
@@ -4025,6 +4146,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 199,Volketswil,Wohnungsbestand [Whg.],140,2020,8276
 199,Volketswil,Wohnungsbestand [Whg.],140,2021,8371
 199,Volketswil,Wohnungsbestand [Whg.],140,2022,8473
+199,Volketswil,Wohnungsbestand [Whg.],140,2023,8597
 200,Wangen-Brüttisellen,Wohnungsbestand [Whg.],140,1990,1986
 200,Wangen-Brüttisellen,Wohnungsbestand [Whg.],140,1991,1997
 200,Wangen-Brüttisellen,Wohnungsbestand [Whg.],140,1992,2033
@@ -4058,6 +4180,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 200,Wangen-Brüttisellen,Wohnungsbestand [Whg.],140,2020,3516
 200,Wangen-Brüttisellen,Wohnungsbestand [Whg.],140,2021,3530
 200,Wangen-Brüttisellen,Wohnungsbestand [Whg.],140,2022,3547
+200,Wangen-Brüttisellen,Wohnungsbestand [Whg.],140,2023,3564
 211,Altikon,Wohnungsbestand [Whg.],140,1990,178
 211,Altikon,Wohnungsbestand [Whg.],140,1991,194
 211,Altikon,Wohnungsbestand [Whg.],140,1992,198
@@ -4091,6 +4214,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 211,Altikon,Wohnungsbestand [Whg.],140,2020,327
 211,Altikon,Wohnungsbestand [Whg.],140,2021,338
 211,Altikon,Wohnungsbestand [Whg.],140,2022,347
+211,Altikon,Wohnungsbestand [Whg.],140,2023,348
 213,Brütten,Wohnungsbestand [Whg.],140,1990,551
 213,Brütten,Wohnungsbestand [Whg.],140,1991,555
 213,Brütten,Wohnungsbestand [Whg.],140,1992,571
@@ -4124,6 +4248,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 213,Brütten,Wohnungsbestand [Whg.],140,2020,986
 213,Brütten,Wohnungsbestand [Whg.],140,2021,1012
 213,Brütten,Wohnungsbestand [Whg.],140,2022,1008
+213,Brütten,Wohnungsbestand [Whg.],140,2023,1036
 214,Dägerlen,Wohnungsbestand [Whg.],140,1990,243
 214,Dägerlen,Wohnungsbestand [Whg.],140,1991,260
 214,Dägerlen,Wohnungsbestand [Whg.],140,1992,260
@@ -4157,6 +4282,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 214,Dägerlen,Wohnungsbestand [Whg.],140,2020,445
 214,Dägerlen,Wohnungsbestand [Whg.],140,2021,458
 214,Dägerlen,Wohnungsbestand [Whg.],140,2022,478
+214,Dägerlen,Wohnungsbestand [Whg.],140,2023,498
 215,Dättlikon,Wohnungsbestand [Whg.],140,1990,171
 215,Dättlikon,Wohnungsbestand [Whg.],140,1991,178
 215,Dättlikon,Wohnungsbestand [Whg.],140,1992,179
@@ -4190,6 +4316,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 215,Dättlikon,Wohnungsbestand [Whg.],140,2020,335
 215,Dättlikon,Wohnungsbestand [Whg.],140,2021,349
 215,Dättlikon,Wohnungsbestand [Whg.],140,2022,362
+215,Dättlikon,Wohnungsbestand [Whg.],140,2023,366
 216,Dinhard,Wohnungsbestand [Whg.],140,1990,414
 216,Dinhard,Wohnungsbestand [Whg.],140,1991,416
 216,Dinhard,Wohnungsbestand [Whg.],140,1992,419
@@ -4223,6 +4350,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 216,Dinhard,Wohnungsbestand [Whg.],140,2020,771
 216,Dinhard,Wohnungsbestand [Whg.],140,2021,772
 216,Dinhard,Wohnungsbestand [Whg.],140,2022,776
+216,Dinhard,Wohnungsbestand [Whg.],140,2023,779
 218,Ellikon a.d.Th.,Wohnungsbestand [Whg.],140,1990,209
 218,Ellikon a.d.Th.,Wohnungsbestand [Whg.],140,1991,222
 218,Ellikon a.d.Th.,Wohnungsbestand [Whg.],140,1992,230
@@ -4256,6 +4384,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 218,Ellikon a.d.Th.,Wohnungsbestand [Whg.],140,2020,431
 218,Ellikon a.d.Th.,Wohnungsbestand [Whg.],140,2021,473
 218,Ellikon a.d.Th.,Wohnungsbestand [Whg.],140,2022,474
+218,Ellikon a.d.Th.,Wohnungsbestand [Whg.],140,2023,468
 219,Elsau,Wohnungsbestand [Whg.],140,1990,959
 219,Elsau,Wohnungsbestand [Whg.],140,1991,967
 219,Elsau,Wohnungsbestand [Whg.],140,1992,976
@@ -4289,6 +4418,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 219,Elsau,Wohnungsbestand [Whg.],140,2020,1619
 219,Elsau,Wohnungsbestand [Whg.],140,2021,1639
 219,Elsau,Wohnungsbestand [Whg.],140,2022,1662
+219,Elsau,Wohnungsbestand [Whg.],140,2023,1682
 220,Hagenbuch,Wohnungsbestand [Whg.],140,1990,241
 220,Hagenbuch,Wohnungsbestand [Whg.],140,1991,255
 220,Hagenbuch,Wohnungsbestand [Whg.],140,1992,262
@@ -4322,6 +4452,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 220,Hagenbuch,Wohnungsbestand [Whg.],140,2020,510
 220,Hagenbuch,Wohnungsbestand [Whg.],140,2021,512
 220,Hagenbuch,Wohnungsbestand [Whg.],140,2022,512
+220,Hagenbuch,Wohnungsbestand [Whg.],140,2023,513
 221,Hettlingen,Wohnungsbestand [Whg.],140,1990,613
 221,Hettlingen,Wohnungsbestand [Whg.],140,1991,616
 221,Hettlingen,Wohnungsbestand [Whg.],140,1992,626
@@ -4355,6 +4486,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 221,Hettlingen,Wohnungsbestand [Whg.],140,2020,1271
 221,Hettlingen,Wohnungsbestand [Whg.],140,2021,1288
 221,Hettlingen,Wohnungsbestand [Whg.],140,2022,1309
+221,Hettlingen,Wohnungsbestand [Whg.],140,2023,1356
 223,Neftenbach,Wohnungsbestand [Whg.],140,1990,1425
 223,Neftenbach,Wohnungsbestand [Whg.],140,1991,1473
 223,Neftenbach,Wohnungsbestand [Whg.],140,1992,1527
@@ -4388,6 +4520,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 223,Neftenbach,Wohnungsbestand [Whg.],140,2020,2495
 223,Neftenbach,Wohnungsbestand [Whg.],140,2021,2527
 223,Neftenbach,Wohnungsbestand [Whg.],140,2022,2536
+223,Neftenbach,Wohnungsbestand [Whg.],140,2023,2560
 224,Pfungen,Wohnungsbestand [Whg.],140,1990,925
 224,Pfungen,Wohnungsbestand [Whg.],140,1991,931
 224,Pfungen,Wohnungsbestand [Whg.],140,1992,931
@@ -4421,6 +4554,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 224,Pfungen,Wohnungsbestand [Whg.],140,2020,1819
 224,Pfungen,Wohnungsbestand [Whg.],140,2021,1807
 224,Pfungen,Wohnungsbestand [Whg.],140,2022,1826
+224,Pfungen,Wohnungsbestand [Whg.],140,2023,1843
 225,Rickenbach,Wohnungsbestand [Whg.],140,1990,692
 225,Rickenbach,Wohnungsbestand [Whg.],140,1991,694
 225,Rickenbach,Wohnungsbestand [Whg.],140,1992,697
@@ -4454,6 +4588,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 225,Rickenbach,Wohnungsbestand [Whg.],140,2020,1179
 225,Rickenbach,Wohnungsbestand [Whg.],140,2021,1179
 225,Rickenbach,Wohnungsbestand [Whg.],140,2022,1184
+225,Rickenbach,Wohnungsbestand [Whg.],140,2023,1216
 226,Schlatt,Wohnungsbestand [Whg.],140,1990,203
 226,Schlatt,Wohnungsbestand [Whg.],140,1991,206
 226,Schlatt,Wohnungsbestand [Whg.],140,1992,208
@@ -4487,6 +4622,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 226,Schlatt,Wohnungsbestand [Whg.],140,2020,321
 226,Schlatt,Wohnungsbestand [Whg.],140,2021,321
 226,Schlatt,Wohnungsbestand [Whg.],140,2022,323
+226,Schlatt,Wohnungsbestand [Whg.],140,2023,329
 227,Seuzach,Wohnungsbestand [Whg.],140,1990,2072
 227,Seuzach,Wohnungsbestand [Whg.],140,1991,2086
 227,Seuzach,Wohnungsbestand [Whg.],140,1992,2145
@@ -4520,6 +4656,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 227,Seuzach,Wohnungsbestand [Whg.],140,2020,3592
 227,Seuzach,Wohnungsbestand [Whg.],140,2021,3658
 227,Seuzach,Wohnungsbestand [Whg.],140,2022,3681
+227,Seuzach,Wohnungsbestand [Whg.],140,2023,3726
 228,Turbenthal,Wohnungsbestand [Whg.],140,1990,1387
 228,Turbenthal,Wohnungsbestand [Whg.],140,1991,1422
 228,Turbenthal,Wohnungsbestand [Whg.],140,1992,1448
@@ -4553,6 +4690,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 228,Turbenthal,Wohnungsbestand [Whg.],140,2020,2260
 228,Turbenthal,Wohnungsbestand [Whg.],140,2021,2291
 228,Turbenthal,Wohnungsbestand [Whg.],140,2022,2326
+228,Turbenthal,Wohnungsbestand [Whg.],140,2023,2342
 230,Winterthur,Wohnungsbestand [Whg.],140,1990,39602
 230,Winterthur,Wohnungsbestand [Whg.],140,1991,39871
 230,Winterthur,Wohnungsbestand [Whg.],140,1992,40036
@@ -4586,6 +4724,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 230,Winterthur,Wohnungsbestand [Whg.],140,2020,56362
 230,Winterthur,Wohnungsbestand [Whg.],140,2021,57242
 230,Winterthur,Wohnungsbestand [Whg.],140,2022,57893
+230,Winterthur,Wohnungsbestand [Whg.],140,2023,58538
 231,Zell,Wohnungsbestand [Whg.],140,1990,1668
 231,Zell,Wohnungsbestand [Whg.],140,1991,1675
 231,Zell,Wohnungsbestand [Whg.],140,1992,1679
@@ -4619,6 +4758,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 231,Zell,Wohnungsbestand [Whg.],140,2020,2976
 231,Zell,Wohnungsbestand [Whg.],140,2021,2994
 231,Zell,Wohnungsbestand [Whg.],140,2022,3031
+231,Zell,Wohnungsbestand [Whg.],140,2023,3102
 241,Aesch ZH,Wohnungsbestand [Whg.],140,1990,383
 241,Aesch ZH,Wohnungsbestand [Whg.],140,1991,386
 241,Aesch ZH,Wohnungsbestand [Whg.],140,1992,388
@@ -4652,6 +4792,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 241,Aesch ZH,Wohnungsbestand [Whg.],140,2020,754
 241,Aesch ZH,Wohnungsbestand [Whg.],140,2021,752
 241,Aesch ZH,Wohnungsbestand [Whg.],140,2022,754
+241,Aesch ZH,Wohnungsbestand [Whg.],140,2023,761
 242,Birmensdorf,Wohnungsbestand [Whg.],140,1990,2157
 242,Birmensdorf,Wohnungsbestand [Whg.],140,1991,2179
 242,Birmensdorf,Wohnungsbestand [Whg.],140,1992,2186
@@ -4685,6 +4826,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 242,Birmensdorf,Wohnungsbestand [Whg.],140,2020,3324
 242,Birmensdorf,Wohnungsbestand [Whg.],140,2021,3340
 242,Birmensdorf,Wohnungsbestand [Whg.],140,2022,3369
+242,Birmensdorf,Wohnungsbestand [Whg.],140,2023,3416
 243,Dietikon,Wohnungsbestand [Whg.],140,1990,9453
 243,Dietikon,Wohnungsbestand [Whg.],140,1991,9555
 243,Dietikon,Wohnungsbestand [Whg.],140,1992,9590
@@ -4718,6 +4860,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 243,Dietikon,Wohnungsbestand [Whg.],140,2020,13068
 243,Dietikon,Wohnungsbestand [Whg.],140,2021,13106
 243,Dietikon,Wohnungsbestand [Whg.],140,2022,13144
+243,Dietikon,Wohnungsbestand [Whg.],140,2023,13055
 244,Geroldswil,Wohnungsbestand [Whg.],140,1990,1828
 244,Geroldswil,Wohnungsbestand [Whg.],140,1991,1840
 244,Geroldswil,Wohnungsbestand [Whg.],140,1992,1848
@@ -4751,6 +4894,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 244,Geroldswil,Wohnungsbestand [Whg.],140,2020,2321
 244,Geroldswil,Wohnungsbestand [Whg.],140,2021,2331
 244,Geroldswil,Wohnungsbestand [Whg.],140,2022,2357
+244,Geroldswil,Wohnungsbestand [Whg.],140,2023,2363
 245,Oberengstringen,Wohnungsbestand [Whg.],140,1990,2835
 245,Oberengstringen,Wohnungsbestand [Whg.],140,1991,2835
 245,Oberengstringen,Wohnungsbestand [Whg.],140,1992,2835
@@ -4784,6 +4928,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 245,Oberengstringen,Wohnungsbestand [Whg.],140,2020,3411
 245,Oberengstringen,Wohnungsbestand [Whg.],140,2021,3420
 245,Oberengstringen,Wohnungsbestand [Whg.],140,2022,3453
+245,Oberengstringen,Wohnungsbestand [Whg.],140,2023,3425
 246,Oetwil a.d.L.,Wohnungsbestand [Whg.],140,1990,906
 246,Oetwil a.d.L.,Wohnungsbestand [Whg.],140,1991,907
 246,Oetwil a.d.L.,Wohnungsbestand [Whg.],140,1992,963
@@ -4817,6 +4962,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 246,Oetwil a.d.L.,Wohnungsbestand [Whg.],140,2020,1267
 246,Oetwil a.d.L.,Wohnungsbestand [Whg.],140,2021,1275
 246,Oetwil a.d.L.,Wohnungsbestand [Whg.],140,2022,1284
+246,Oetwil a.d.L.,Wohnungsbestand [Whg.],140,2023,1297
 247,Schlieren,Wohnungsbestand [Whg.],140,1990,6201
 247,Schlieren,Wohnungsbestand [Whg.],140,1991,6225
 247,Schlieren,Wohnungsbestand [Whg.],140,1992,6234
@@ -4850,6 +4996,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 247,Schlieren,Wohnungsbestand [Whg.],140,2020,9568
 247,Schlieren,Wohnungsbestand [Whg.],140,2021,9735
 247,Schlieren,Wohnungsbestand [Whg.],140,2022,9837
+247,Schlieren,Wohnungsbestand [Whg.],140,2023,9873
 248,Uitikon,Wohnungsbestand [Whg.],140,1990,1400
 248,Uitikon,Wohnungsbestand [Whg.],140,1991,1407
 248,Uitikon,Wohnungsbestand [Whg.],140,1992,1412
@@ -4883,6 +5030,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 248,Uitikon,Wohnungsbestand [Whg.],140,2020,2222
 248,Uitikon,Wohnungsbestand [Whg.],140,2021,2325
 248,Uitikon,Wohnungsbestand [Whg.],140,2022,2339
+248,Uitikon,Wohnungsbestand [Whg.],140,2023,2518
 249,Unterengstringen,Wohnungsbestand [Whg.],140,1990,1178
 249,Unterengstringen,Wohnungsbestand [Whg.],140,1991,1195
 249,Unterengstringen,Wohnungsbestand [Whg.],140,1992,1206
@@ -4916,6 +5064,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 249,Unterengstringen,Wohnungsbestand [Whg.],140,2020,1892
 249,Unterengstringen,Wohnungsbestand [Whg.],140,2021,1938
 249,Unterengstringen,Wohnungsbestand [Whg.],140,2022,1938
+249,Unterengstringen,Wohnungsbestand [Whg.],140,2023,2010
 250,Urdorf,Wohnungsbestand [Whg.],140,1990,3506
 250,Urdorf,Wohnungsbestand [Whg.],140,1991,3540
 250,Urdorf,Wohnungsbestand [Whg.],140,1992,3580
@@ -4949,6 +5098,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 250,Urdorf,Wohnungsbestand [Whg.],140,2020,4747
 250,Urdorf,Wohnungsbestand [Whg.],140,2021,4790
 250,Urdorf,Wohnungsbestand [Whg.],140,2022,4853
+250,Urdorf,Wohnungsbestand [Whg.],140,2023,4872
 251,Weiningen,Wohnungsbestand [Whg.],140,1990,1449
 251,Weiningen,Wohnungsbestand [Whg.],140,1991,1464
 251,Weiningen,Wohnungsbestand [Whg.],140,1992,1506
@@ -4982,6 +5132,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 251,Weiningen,Wohnungsbestand [Whg.],140,2020,2177
 251,Weiningen,Wohnungsbestand [Whg.],140,2021,2182
 251,Weiningen,Wohnungsbestand [Whg.],140,2022,2192
+251,Weiningen,Wohnungsbestand [Whg.],140,2023,2259
 261,Zürich,Wohnungsbestand [Whg.],140,1990,188036
 261,Zürich,Wohnungsbestand [Whg.],140,1991,189067
 261,Zürich,Wohnungsbestand [Whg.],140,1992,189663
@@ -5015,6 +5166,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 261,Zürich,Wohnungsbestand [Whg.],140,2020,229657
 261,Zürich,Wohnungsbestand [Whg.],140,2021,230525
 261,Zürich,Wohnungsbestand [Whg.],140,2022,232937
+261,Zürich,Wohnungsbestand [Whg.],140,2023,235138
 291,Andelfingen,Wohnungsbestand [Whg.],140,2016,1467
 291,Andelfingen,Wohnungsbestand [Whg.],140,2017,1486
 291,Andelfingen,Wohnungsbestand [Whg.],140,2018,1499
@@ -5022,28 +5174,33 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 291,Andelfingen,Wohnungsbestand [Whg.],140,2020,1521
 291,Andelfingen,Wohnungsbestand [Whg.],140,2021,1538
 291,Andelfingen,Wohnungsbestand [Whg.],140,2022,1547
+291,Andelfingen,Wohnungsbestand [Whg.],140,2023,1634
 292,Stammheim,Wohnungsbestand [Whg.],140,2018,1259
 292,Stammheim,Wohnungsbestand [Whg.],140,2019,1308
 292,Stammheim,Wohnungsbestand [Whg.],140,2020,1332
 292,Stammheim,Wohnungsbestand [Whg.],140,2021,1337
 292,Stammheim,Wohnungsbestand [Whg.],140,2022,1348
+292,Stammheim,Wohnungsbestand [Whg.],140,2023,1367
 293,Wädenswil,Wohnungsbestand [Whg.],140,2018,11930
 293,Wädenswil,Wohnungsbestand [Whg.],140,2019,11828
 293,Wädenswil,Wohnungsbestand [Whg.],140,2020,11929
 293,Wädenswil,Wohnungsbestand [Whg.],140,2021,12071
 293,Wädenswil,Wohnungsbestand [Whg.],140,2022,12232
+293,Wädenswil,Wohnungsbestand [Whg.],140,2023,12364
 294,Elgg,Wohnungsbestand [Whg.],140,2017,2318
 294,Elgg,Wohnungsbestand [Whg.],140,2018,2346
 294,Elgg,Wohnungsbestand [Whg.],140,2019,2345
 294,Elgg,Wohnungsbestand [Whg.],140,2020,2362
 294,Elgg,Wohnungsbestand [Whg.],140,2021,2393
 294,Elgg,Wohnungsbestand [Whg.],140,2022,2401
+294,Elgg,Wohnungsbestand [Whg.],140,2023,2418
 295,Horgen,Wohnungsbestand [Whg.],140,2017,10605
 295,Horgen,Wohnungsbestand [Whg.],140,2018,10655
 295,Horgen,Wohnungsbestand [Whg.],140,2019,10767
 295,Horgen,Wohnungsbestand [Whg.],140,2020,10796
 295,Horgen,Wohnungsbestand [Whg.],140,2021,10942
 295,Horgen,Wohnungsbestand [Whg.],140,2022,11178
+295,Horgen,Wohnungsbestand [Whg.],140,2023,11250
 296,Illnau-Effretikon,Wohnungsbestand [Whg.],140,1990,6260
 296,Illnau-Effretikon,Wohnungsbestand [Whg.],140,1991,6314
 296,Illnau-Effretikon,Wohnungsbestand [Whg.],140,1992,6388
@@ -5077,6 +5234,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 296,Illnau-Effretikon,Wohnungsbestand [Whg.],140,2020,8509
 296,Illnau-Effretikon,Wohnungsbestand [Whg.],140,2021,8524
 296,Illnau-Effretikon,Wohnungsbestand [Whg.],140,2022,8568
+296,Illnau-Effretikon,Wohnungsbestand [Whg.],140,2023,8531
 297,Bauma,Wohnungsbestand [Whg.],140,1990,1629
 297,Bauma,Wohnungsbestand [Whg.],140,1991,1662
 297,Bauma,Wohnungsbestand [Whg.],140,1992,1691
@@ -5110,6 +5268,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 297,Bauma,Wohnungsbestand [Whg.],140,2020,2363
 297,Bauma,Wohnungsbestand [Whg.],140,2021,2364
 297,Bauma,Wohnungsbestand [Whg.],140,2022,2409
+297,Bauma,Wohnungsbestand [Whg.],140,2023,2448
 298,Wiesendangen,Wohnungsbestand [Whg.],140,1990,1574
 298,Wiesendangen,Wohnungsbestand [Whg.],140,1991,1597
 298,Wiesendangen,Wohnungsbestand [Whg.],140,1992,1625
@@ -5143,6 +5302,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 298,Wiesendangen,Wohnungsbestand [Whg.],140,2020,2856
 298,Wiesendangen,Wohnungsbestand [Whg.],140,2021,2891
 298,Wiesendangen,Wohnungsbestand [Whg.],140,2022,2899
+298,Wiesendangen,Wohnungsbestand [Whg.],140,2023,2910
 1,Aeugst a.A.,Leerwohnungen Total [Anz.],381,1990,0
 1,Aeugst a.A.,Leerwohnungen Total [Anz.],381,1991,3
 1,Aeugst a.A.,Leerwohnungen Total [Anz.],381,1992,5
@@ -5176,6 +5336,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 1,Aeugst a.A.,Leerwohnungen Total [Anz.],381,2020,49
 1,Aeugst a.A.,Leerwohnungen Total [Anz.],381,2021,39
 1,Aeugst a.A.,Leerwohnungen Total [Anz.],381,2022,2
+1,Aeugst a.A.,Leerwohnungen Total [Anz.],381,2023,2
 2,Affoltern a.A.,Leerwohnungen Total [Anz.],381,1990,3
 2,Affoltern a.A.,Leerwohnungen Total [Anz.],381,1991,3
 2,Affoltern a.A.,Leerwohnungen Total [Anz.],381,1992,6
@@ -5209,6 +5370,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 2,Affoltern a.A.,Leerwohnungen Total [Anz.],381,2020,58
 2,Affoltern a.A.,Leerwohnungen Total [Anz.],381,2021,66
 2,Affoltern a.A.,Leerwohnungen Total [Anz.],381,2022,39
+2,Affoltern a.A.,Leerwohnungen Total [Anz.],381,2023,35
 3,Bonstetten,Leerwohnungen Total [Anz.],381,1990,2
 3,Bonstetten,Leerwohnungen Total [Anz.],381,1991,15
 3,Bonstetten,Leerwohnungen Total [Anz.],381,1992,12
@@ -5242,6 +5404,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 3,Bonstetten,Leerwohnungen Total [Anz.],381,2020,29
 3,Bonstetten,Leerwohnungen Total [Anz.],381,2021,17
 3,Bonstetten,Leerwohnungen Total [Anz.],381,2022,8
+3,Bonstetten,Leerwohnungen Total [Anz.],381,2023,7
 4,Hausen a.A.,Leerwohnungen Total [Anz.],381,1990,3
 4,Hausen a.A.,Leerwohnungen Total [Anz.],381,1991,4
 4,Hausen a.A.,Leerwohnungen Total [Anz.],381,1992,33
@@ -5275,6 +5438,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 4,Hausen a.A.,Leerwohnungen Total [Anz.],381,2020,11
 4,Hausen a.A.,Leerwohnungen Total [Anz.],381,2021,10
 4,Hausen a.A.,Leerwohnungen Total [Anz.],381,2022,8
+4,Hausen a.A.,Leerwohnungen Total [Anz.],381,2023,4
 5,Hedingen,Leerwohnungen Total [Anz.],381,1990,0
 5,Hedingen,Leerwohnungen Total [Anz.],381,1991,2
 5,Hedingen,Leerwohnungen Total [Anz.],381,1992,13
@@ -5308,6 +5472,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 5,Hedingen,Leerwohnungen Total [Anz.],381,2020,16
 5,Hedingen,Leerwohnungen Total [Anz.],381,2021,14
 5,Hedingen,Leerwohnungen Total [Anz.],381,2022,15
+5,Hedingen,Leerwohnungen Total [Anz.],381,2023,20
 6,Kappel a.A.,Leerwohnungen Total [Anz.],381,1990,0
 6,Kappel a.A.,Leerwohnungen Total [Anz.],381,1991,7
 6,Kappel a.A.,Leerwohnungen Total [Anz.],381,1992,4
@@ -5341,6 +5506,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 6,Kappel a.A.,Leerwohnungen Total [Anz.],381,2020,12
 6,Kappel a.A.,Leerwohnungen Total [Anz.],381,2021,14
 6,Kappel a.A.,Leerwohnungen Total [Anz.],381,2022,12
+6,Kappel a.A.,Leerwohnungen Total [Anz.],381,2023,10
 7,Knonau,Leerwohnungen Total [Anz.],381,1990,0
 7,Knonau,Leerwohnungen Total [Anz.],381,1991,1
 7,Knonau,Leerwohnungen Total [Anz.],381,1992,9
@@ -5374,6 +5540,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 7,Knonau,Leerwohnungen Total [Anz.],381,2020,6
 7,Knonau,Leerwohnungen Total [Anz.],381,2021,6
 7,Knonau,Leerwohnungen Total [Anz.],381,2022,5
+7,Knonau,Leerwohnungen Total [Anz.],381,2023,3
 8,Maschwanden,Leerwohnungen Total [Anz.],381,1990,0
 8,Maschwanden,Leerwohnungen Total [Anz.],381,1991,0
 8,Maschwanden,Leerwohnungen Total [Anz.],381,1992,1
@@ -5407,6 +5574,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 8,Maschwanden,Leerwohnungen Total [Anz.],381,2020,9
 8,Maschwanden,Leerwohnungen Total [Anz.],381,2021,0
 8,Maschwanden,Leerwohnungen Total [Anz.],381,2022,3
+8,Maschwanden,Leerwohnungen Total [Anz.],381,2023,0
 9,Mettmenstetten,Leerwohnungen Total [Anz.],381,1990,0
 9,Mettmenstetten,Leerwohnungen Total [Anz.],381,1991,0
 9,Mettmenstetten,Leerwohnungen Total [Anz.],381,1992,5
@@ -5440,6 +5608,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 9,Mettmenstetten,Leerwohnungen Total [Anz.],381,2020,30
 9,Mettmenstetten,Leerwohnungen Total [Anz.],381,2021,16
 9,Mettmenstetten,Leerwohnungen Total [Anz.],381,2022,15
+9,Mettmenstetten,Leerwohnungen Total [Anz.],381,2023,3
 10,Obfelden,Leerwohnungen Total [Anz.],381,1990,3
 10,Obfelden,Leerwohnungen Total [Anz.],381,1991,17
 10,Obfelden,Leerwohnungen Total [Anz.],381,1992,11
@@ -5473,6 +5642,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 10,Obfelden,Leerwohnungen Total [Anz.],381,2020,54
 10,Obfelden,Leerwohnungen Total [Anz.],381,2021,50
 10,Obfelden,Leerwohnungen Total [Anz.],381,2022,38
+10,Obfelden,Leerwohnungen Total [Anz.],381,2023,47
 11,Ottenbach,Leerwohnungen Total [Anz.],381,1990,0
 11,Ottenbach,Leerwohnungen Total [Anz.],381,1991,7
 11,Ottenbach,Leerwohnungen Total [Anz.],381,1992,1
@@ -5506,6 +5676,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 11,Ottenbach,Leerwohnungen Total [Anz.],381,2020,14
 11,Ottenbach,Leerwohnungen Total [Anz.],381,2021,8
 11,Ottenbach,Leerwohnungen Total [Anz.],381,2022,7
+11,Ottenbach,Leerwohnungen Total [Anz.],381,2023,9
 12,Rifferswil,Leerwohnungen Total [Anz.],381,1990,0
 12,Rifferswil,Leerwohnungen Total [Anz.],381,1991,0
 12,Rifferswil,Leerwohnungen Total [Anz.],381,1992,0
@@ -5539,6 +5710,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 12,Rifferswil,Leerwohnungen Total [Anz.],381,2020,6
 12,Rifferswil,Leerwohnungen Total [Anz.],381,2021,5
 12,Rifferswil,Leerwohnungen Total [Anz.],381,2022,8
+12,Rifferswil,Leerwohnungen Total [Anz.],381,2023,1
 13,Stallikon,Leerwohnungen Total [Anz.],381,1990,0
 13,Stallikon,Leerwohnungen Total [Anz.],381,1991,30
 13,Stallikon,Leerwohnungen Total [Anz.],381,1992,38
@@ -5572,6 +5744,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 13,Stallikon,Leerwohnungen Total [Anz.],381,2020,19
 13,Stallikon,Leerwohnungen Total [Anz.],381,2021,25
 13,Stallikon,Leerwohnungen Total [Anz.],381,2022,19
+13,Stallikon,Leerwohnungen Total [Anz.],381,2023,32
 14,Wettswil a.A.,Leerwohnungen Total [Anz.],381,1990,0
 14,Wettswil a.A.,Leerwohnungen Total [Anz.],381,1991,0
 14,Wettswil a.A.,Leerwohnungen Total [Anz.],381,1992,0
@@ -5605,6 +5778,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 14,Wettswil a.A.,Leerwohnungen Total [Anz.],381,2020,7
 14,Wettswil a.A.,Leerwohnungen Total [Anz.],381,2021,11
 14,Wettswil a.A.,Leerwohnungen Total [Anz.],381,2022,13
+14,Wettswil a.A.,Leerwohnungen Total [Anz.],381,2023,11
 22,Benken,Leerwohnungen Total [Anz.],381,1990,1
 22,Benken,Leerwohnungen Total [Anz.],381,1991,0
 22,Benken,Leerwohnungen Total [Anz.],381,1992,5
@@ -5638,6 +5812,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 22,Benken,Leerwohnungen Total [Anz.],381,2020,4
 22,Benken,Leerwohnungen Total [Anz.],381,2021,4
 22,Benken,Leerwohnungen Total [Anz.],381,2022,4
+22,Benken,Leerwohnungen Total [Anz.],381,2023,2
 23,Berg a.I.,Leerwohnungen Total [Anz.],381,1990,1
 23,Berg a.I.,Leerwohnungen Total [Anz.],381,1991,2
 23,Berg a.I.,Leerwohnungen Total [Anz.],381,1992,0
@@ -5671,6 +5846,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 23,Berg a.I.,Leerwohnungen Total [Anz.],381,2020,6
 23,Berg a.I.,Leerwohnungen Total [Anz.],381,2021,1
 23,Berg a.I.,Leerwohnungen Total [Anz.],381,2022,3
+23,Berg a.I.,Leerwohnungen Total [Anz.],381,2023,2
 24,Buch a.I.,Leerwohnungen Total [Anz.],381,1990,0
 24,Buch a.I.,Leerwohnungen Total [Anz.],381,1991,4
 24,Buch a.I.,Leerwohnungen Total [Anz.],381,1992,3
@@ -5704,6 +5880,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 24,Buch a.I.,Leerwohnungen Total [Anz.],381,2020,5
 24,Buch a.I.,Leerwohnungen Total [Anz.],381,2021,1
 24,Buch a.I.,Leerwohnungen Total [Anz.],381,2022,4
+24,Buch a.I.,Leerwohnungen Total [Anz.],381,2023,0
 25,Dachsen,Leerwohnungen Total [Anz.],381,1990,0
 25,Dachsen,Leerwohnungen Total [Anz.],381,1991,0
 25,Dachsen,Leerwohnungen Total [Anz.],381,1992,2
@@ -5737,6 +5914,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 25,Dachsen,Leerwohnungen Total [Anz.],381,2020,21
 25,Dachsen,Leerwohnungen Total [Anz.],381,2021,10
 25,Dachsen,Leerwohnungen Total [Anz.],381,2022,7
+25,Dachsen,Leerwohnungen Total [Anz.],381,2023,3
 26,Dorf,Leerwohnungen Total [Anz.],381,1990,1
 26,Dorf,Leerwohnungen Total [Anz.],381,1991,16
 26,Dorf,Leerwohnungen Total [Anz.],381,1992,0
@@ -5770,6 +5948,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 26,Dorf,Leerwohnungen Total [Anz.],381,2020,6
 26,Dorf,Leerwohnungen Total [Anz.],381,2021,2
 26,Dorf,Leerwohnungen Total [Anz.],381,2022,3
+26,Dorf,Leerwohnungen Total [Anz.],381,2023,3
 27,Feuerthalen,Leerwohnungen Total [Anz.],381,1990,8
 27,Feuerthalen,Leerwohnungen Total [Anz.],381,1991,4
 27,Feuerthalen,Leerwohnungen Total [Anz.],381,1992,12
@@ -5803,6 +5982,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 27,Feuerthalen,Leerwohnungen Total [Anz.],381,2020,41
 27,Feuerthalen,Leerwohnungen Total [Anz.],381,2021,23
 27,Feuerthalen,Leerwohnungen Total [Anz.],381,2022,11
+27,Feuerthalen,Leerwohnungen Total [Anz.],381,2023,15
 28,Flaach,Leerwohnungen Total [Anz.],381,1990,6
 28,Flaach,Leerwohnungen Total [Anz.],381,1991,1
 28,Flaach,Leerwohnungen Total [Anz.],381,1992,2
@@ -5836,6 +6016,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 28,Flaach,Leerwohnungen Total [Anz.],381,2020,28
 28,Flaach,Leerwohnungen Total [Anz.],381,2021,13
 28,Flaach,Leerwohnungen Total [Anz.],381,2022,6
+28,Flaach,Leerwohnungen Total [Anz.],381,2023,11
 29,Flurlingen,Leerwohnungen Total [Anz.],381,1990,3
 29,Flurlingen,Leerwohnungen Total [Anz.],381,1991,1
 29,Flurlingen,Leerwohnungen Total [Anz.],381,1992,6
@@ -5869,6 +6050,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 29,Flurlingen,Leerwohnungen Total [Anz.],381,2020,10
 29,Flurlingen,Leerwohnungen Total [Anz.],381,2021,4
 29,Flurlingen,Leerwohnungen Total [Anz.],381,2022,7
+29,Flurlingen,Leerwohnungen Total [Anz.],381,2023,5
 31,Henggart,Leerwohnungen Total [Anz.],381,1990,0
 31,Henggart,Leerwohnungen Total [Anz.],381,1991,10
 31,Henggart,Leerwohnungen Total [Anz.],381,1992,14
@@ -5902,6 +6084,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 31,Henggart,Leerwohnungen Total [Anz.],381,2020,9
 31,Henggart,Leerwohnungen Total [Anz.],381,2021,10
 31,Henggart,Leerwohnungen Total [Anz.],381,2022,9
+31,Henggart,Leerwohnungen Total [Anz.],381,2023,9
 33,Kleinandelfingen,Leerwohnungen Total [Anz.],381,1990,0
 33,Kleinandelfingen,Leerwohnungen Total [Anz.],381,1991,3
 33,Kleinandelfingen,Leerwohnungen Total [Anz.],381,1992,7
@@ -5935,6 +6118,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 33,Kleinandelfingen,Leerwohnungen Total [Anz.],381,2020,31
 33,Kleinandelfingen,Leerwohnungen Total [Anz.],381,2021,14
 33,Kleinandelfingen,Leerwohnungen Total [Anz.],381,2022,19
+33,Kleinandelfingen,Leerwohnungen Total [Anz.],381,2023,15
 34,Laufen-Uhwiesen,Leerwohnungen Total [Anz.],381,1990,0
 34,Laufen-Uhwiesen,Leerwohnungen Total [Anz.],381,1991,0
 34,Laufen-Uhwiesen,Leerwohnungen Total [Anz.],381,1992,2
@@ -5968,6 +6152,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 34,Laufen-Uhwiesen,Leerwohnungen Total [Anz.],381,2020,12
 34,Laufen-Uhwiesen,Leerwohnungen Total [Anz.],381,2021,10
 34,Laufen-Uhwiesen,Leerwohnungen Total [Anz.],381,2022,4
+34,Laufen-Uhwiesen,Leerwohnungen Total [Anz.],381,2023,6
 35,Marthalen,Leerwohnungen Total [Anz.],381,1990,3
 35,Marthalen,Leerwohnungen Total [Anz.],381,1991,3
 35,Marthalen,Leerwohnungen Total [Anz.],381,1992,4
@@ -6001,6 +6186,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 35,Marthalen,Leerwohnungen Total [Anz.],381,2020,8
 35,Marthalen,Leerwohnungen Total [Anz.],381,2021,3
 35,Marthalen,Leerwohnungen Total [Anz.],381,2022,2
+35,Marthalen,Leerwohnungen Total [Anz.],381,2023,4
 37,Ossingen,Leerwohnungen Total [Anz.],381,1990,2
 37,Ossingen,Leerwohnungen Total [Anz.],381,1991,10
 37,Ossingen,Leerwohnungen Total [Anz.],381,1992,8
@@ -6034,6 +6220,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 37,Ossingen,Leerwohnungen Total [Anz.],381,2020,14
 37,Ossingen,Leerwohnungen Total [Anz.],381,2021,15
 37,Ossingen,Leerwohnungen Total [Anz.],381,2022,7
+37,Ossingen,Leerwohnungen Total [Anz.],381,2023,5
 38,Rheinau,Leerwohnungen Total [Anz.],381,1990,7
 38,Rheinau,Leerwohnungen Total [Anz.],381,1991,4
 38,Rheinau,Leerwohnungen Total [Anz.],381,1992,4
@@ -6067,6 +6254,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 38,Rheinau,Leerwohnungen Total [Anz.],381,2020,15
 38,Rheinau,Leerwohnungen Total [Anz.],381,2021,4
 38,Rheinau,Leerwohnungen Total [Anz.],381,2022,5
+38,Rheinau,Leerwohnungen Total [Anz.],381,2023,14
 39,Thalheim a.d.Th.,Leerwohnungen Total [Anz.],381,1990,0
 39,Thalheim a.d.Th.,Leerwohnungen Total [Anz.],381,1991,1
 39,Thalheim a.d.Th.,Leerwohnungen Total [Anz.],381,1992,0
@@ -6100,6 +6288,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 39,Thalheim a.d.Th.,Leerwohnungen Total [Anz.],381,2020,4
 39,Thalheim a.d.Th.,Leerwohnungen Total [Anz.],381,2021,3
 39,Thalheim a.d.Th.,Leerwohnungen Total [Anz.],381,2022,4
+39,Thalheim a.d.Th.,Leerwohnungen Total [Anz.],381,2023,3
 40,Trüllikon,Leerwohnungen Total [Anz.],381,1990,3
 40,Trüllikon,Leerwohnungen Total [Anz.],381,1991,6
 40,Trüllikon,Leerwohnungen Total [Anz.],381,1992,4
@@ -6133,6 +6322,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 40,Trüllikon,Leerwohnungen Total [Anz.],381,2020,5
 40,Trüllikon,Leerwohnungen Total [Anz.],381,2021,4
 40,Trüllikon,Leerwohnungen Total [Anz.],381,2022,6
+40,Trüllikon,Leerwohnungen Total [Anz.],381,2023,6
 41,Truttikon,Leerwohnungen Total [Anz.],381,1990,3
 41,Truttikon,Leerwohnungen Total [Anz.],381,1991,1
 41,Truttikon,Leerwohnungen Total [Anz.],381,1992,3
@@ -6166,6 +6356,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 41,Truttikon,Leerwohnungen Total [Anz.],381,2020,1
 41,Truttikon,Leerwohnungen Total [Anz.],381,2021,0
 41,Truttikon,Leerwohnungen Total [Anz.],381,2022,0
+41,Truttikon,Leerwohnungen Total [Anz.],381,2023,2
 43,Volken,Leerwohnungen Total [Anz.],381,1990,0
 43,Volken,Leerwohnungen Total [Anz.],381,1991,0
 43,Volken,Leerwohnungen Total [Anz.],381,1992,0
@@ -6199,6 +6390,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 43,Volken,Leerwohnungen Total [Anz.],381,2020,1
 43,Volken,Leerwohnungen Total [Anz.],381,2021,1
 43,Volken,Leerwohnungen Total [Anz.],381,2022,1
+43,Volken,Leerwohnungen Total [Anz.],381,2023,4
 51,Bachenbülach,Leerwohnungen Total [Anz.],381,1990,0
 51,Bachenbülach,Leerwohnungen Total [Anz.],381,1991,0
 51,Bachenbülach,Leerwohnungen Total [Anz.],381,1992,7
@@ -6232,6 +6424,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 51,Bachenbülach,Leerwohnungen Total [Anz.],381,2020,11
 51,Bachenbülach,Leerwohnungen Total [Anz.],381,2021,17
 51,Bachenbülach,Leerwohnungen Total [Anz.],381,2022,14
+51,Bachenbülach,Leerwohnungen Total [Anz.],381,2023,9
 52,Bassersdorf,Leerwohnungen Total [Anz.],381,1990,20
 52,Bassersdorf,Leerwohnungen Total [Anz.],381,1991,19
 52,Bassersdorf,Leerwohnungen Total [Anz.],381,1992,11
@@ -6265,6 +6458,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 52,Bassersdorf,Leerwohnungen Total [Anz.],381,2020,51
 52,Bassersdorf,Leerwohnungen Total [Anz.],381,2021,46
 52,Bassersdorf,Leerwohnungen Total [Anz.],381,2022,40
+52,Bassersdorf,Leerwohnungen Total [Anz.],381,2023,26
 53,Bülach,Leerwohnungen Total [Anz.],381,1990,2
 53,Bülach,Leerwohnungen Total [Anz.],381,1991,8
 53,Bülach,Leerwohnungen Total [Anz.],381,1992,16
@@ -6298,6 +6492,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 53,Bülach,Leerwohnungen Total [Anz.],381,2020,256
 53,Bülach,Leerwohnungen Total [Anz.],381,2021,89
 53,Bülach,Leerwohnungen Total [Anz.],381,2022,105
+53,Bülach,Leerwohnungen Total [Anz.],381,2023,79
 54,Dietlikon,Leerwohnungen Total [Anz.],381,1990,2
 54,Dietlikon,Leerwohnungen Total [Anz.],381,1991,4
 54,Dietlikon,Leerwohnungen Total [Anz.],381,1992,13
@@ -6331,6 +6526,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 54,Dietlikon,Leerwohnungen Total [Anz.],381,2020,7
 54,Dietlikon,Leerwohnungen Total [Anz.],381,2021,19
 54,Dietlikon,Leerwohnungen Total [Anz.],381,2022,3
+54,Dietlikon,Leerwohnungen Total [Anz.],381,2023,5
 55,Eglisau,Leerwohnungen Total [Anz.],381,1990,0
 55,Eglisau,Leerwohnungen Total [Anz.],381,1991,2
 55,Eglisau,Leerwohnungen Total [Anz.],381,1992,1
@@ -6364,6 +6560,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 55,Eglisau,Leerwohnungen Total [Anz.],381,2020,39
 55,Eglisau,Leerwohnungen Total [Anz.],381,2021,23
 55,Eglisau,Leerwohnungen Total [Anz.],381,2022,35
+55,Eglisau,Leerwohnungen Total [Anz.],381,2023,26
 56,Embrach,Leerwohnungen Total [Anz.],381,1990,0
 56,Embrach,Leerwohnungen Total [Anz.],381,1991,0
 56,Embrach,Leerwohnungen Total [Anz.],381,1992,0
@@ -6397,6 +6594,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 56,Embrach,Leerwohnungen Total [Anz.],381,2020,62
 56,Embrach,Leerwohnungen Total [Anz.],381,2021,67
 56,Embrach,Leerwohnungen Total [Anz.],381,2022,38
+56,Embrach,Leerwohnungen Total [Anz.],381,2023,38
 57,Freienstein-Teufen,Leerwohnungen Total [Anz.],381,1990,0
 57,Freienstein-Teufen,Leerwohnungen Total [Anz.],381,1991,0
 57,Freienstein-Teufen,Leerwohnungen Total [Anz.],381,1992,0
@@ -6430,6 +6628,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 57,Freienstein-Teufen,Leerwohnungen Total [Anz.],381,2020,8
 57,Freienstein-Teufen,Leerwohnungen Total [Anz.],381,2021,7
 57,Freienstein-Teufen,Leerwohnungen Total [Anz.],381,2022,3
+57,Freienstein-Teufen,Leerwohnungen Total [Anz.],381,2023,4
 58,Glattfelden,Leerwohnungen Total [Anz.],381,1990,2
 58,Glattfelden,Leerwohnungen Total [Anz.],381,1991,0
 58,Glattfelden,Leerwohnungen Total [Anz.],381,1992,2
@@ -6463,6 +6662,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 58,Glattfelden,Leerwohnungen Total [Anz.],381,2020,49
 58,Glattfelden,Leerwohnungen Total [Anz.],381,2021,41
 58,Glattfelden,Leerwohnungen Total [Anz.],381,2022,25
+58,Glattfelden,Leerwohnungen Total [Anz.],381,2023,38
 59,Hochfelden,Leerwohnungen Total [Anz.],381,1990,2
 59,Hochfelden,Leerwohnungen Total [Anz.],381,1991,1
 59,Hochfelden,Leerwohnungen Total [Anz.],381,1992,0
@@ -6496,6 +6696,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 59,Hochfelden,Leerwohnungen Total [Anz.],381,2020,10
 59,Hochfelden,Leerwohnungen Total [Anz.],381,2021,4
 59,Hochfelden,Leerwohnungen Total [Anz.],381,2022,6
+59,Hochfelden,Leerwohnungen Total [Anz.],381,2023,6
 60,Höri,Leerwohnungen Total [Anz.],381,1990,0
 60,Höri,Leerwohnungen Total [Anz.],381,1991,0
 60,Höri,Leerwohnungen Total [Anz.],381,1992,0
@@ -6529,6 +6730,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 60,Höri,Leerwohnungen Total [Anz.],381,2020,9
 60,Höri,Leerwohnungen Total [Anz.],381,2021,11
 60,Höri,Leerwohnungen Total [Anz.],381,2022,5
+60,Höri,Leerwohnungen Total [Anz.],381,2023,14
 61,Hüntwangen,Leerwohnungen Total [Anz.],381,1990,5
 61,Hüntwangen,Leerwohnungen Total [Anz.],381,1991,3
 61,Hüntwangen,Leerwohnungen Total [Anz.],381,1992,7
@@ -6562,6 +6764,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 61,Hüntwangen,Leerwohnungen Total [Anz.],381,2020,7
 61,Hüntwangen,Leerwohnungen Total [Anz.],381,2021,7
 61,Hüntwangen,Leerwohnungen Total [Anz.],381,2022,4
+61,Hüntwangen,Leerwohnungen Total [Anz.],381,2023,3
 62,Kloten,Leerwohnungen Total [Anz.],381,1990,0
 62,Kloten,Leerwohnungen Total [Anz.],381,1991,0
 62,Kloten,Leerwohnungen Total [Anz.],381,1992,6
@@ -6595,6 +6798,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 62,Kloten,Leerwohnungen Total [Anz.],381,2020,73
 62,Kloten,Leerwohnungen Total [Anz.],381,2021,85
 62,Kloten,Leerwohnungen Total [Anz.],381,2022,67
+62,Kloten,Leerwohnungen Total [Anz.],381,2023,49
 63,Lufingen,Leerwohnungen Total [Anz.],381,1990,0
 63,Lufingen,Leerwohnungen Total [Anz.],381,1991,1
 63,Lufingen,Leerwohnungen Total [Anz.],381,1992,2
@@ -6628,6 +6832,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 63,Lufingen,Leerwohnungen Total [Anz.],381,2020,13
 63,Lufingen,Leerwohnungen Total [Anz.],381,2021,12
 63,Lufingen,Leerwohnungen Total [Anz.],381,2022,14
+63,Lufingen,Leerwohnungen Total [Anz.],381,2023,6
 64,Nürensdorf,Leerwohnungen Total [Anz.],381,1990,5
 64,Nürensdorf,Leerwohnungen Total [Anz.],381,1991,2
 64,Nürensdorf,Leerwohnungen Total [Anz.],381,1992,17
@@ -6661,6 +6866,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 64,Nürensdorf,Leerwohnungen Total [Anz.],381,2020,35
 64,Nürensdorf,Leerwohnungen Total [Anz.],381,2021,14
 64,Nürensdorf,Leerwohnungen Total [Anz.],381,2022,16
+64,Nürensdorf,Leerwohnungen Total [Anz.],381,2023,16
 65,Oberembrach,Leerwohnungen Total [Anz.],381,1990,0
 65,Oberembrach,Leerwohnungen Total [Anz.],381,1991,2
 65,Oberembrach,Leerwohnungen Total [Anz.],381,1992,0
@@ -6694,6 +6900,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 65,Oberembrach,Leerwohnungen Total [Anz.],381,2020,9
 65,Oberembrach,Leerwohnungen Total [Anz.],381,2021,3
 65,Oberembrach,Leerwohnungen Total [Anz.],381,2022,4
+65,Oberembrach,Leerwohnungen Total [Anz.],381,2023,2
 66,Opfikon,Leerwohnungen Total [Anz.],381,1990,15
 66,Opfikon,Leerwohnungen Total [Anz.],381,1991,6
 66,Opfikon,Leerwohnungen Total [Anz.],381,1992,5
@@ -6727,6 +6934,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 66,Opfikon,Leerwohnungen Total [Anz.],381,2020,191
 66,Opfikon,Leerwohnungen Total [Anz.],381,2021,178
 66,Opfikon,Leerwohnungen Total [Anz.],381,2022,153
+66,Opfikon,Leerwohnungen Total [Anz.],381,2023,61
 67,Rafz,Leerwohnungen Total [Anz.],381,1990,0
 67,Rafz,Leerwohnungen Total [Anz.],381,1991,0
 67,Rafz,Leerwohnungen Total [Anz.],381,1992,4
@@ -6760,6 +6968,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 67,Rafz,Leerwohnungen Total [Anz.],381,2020,24
 67,Rafz,Leerwohnungen Total [Anz.],381,2021,19
 67,Rafz,Leerwohnungen Total [Anz.],381,2022,25
+67,Rafz,Leerwohnungen Total [Anz.],381,2023,16
 68,Rorbas,Leerwohnungen Total [Anz.],381,1990,0
 68,Rorbas,Leerwohnungen Total [Anz.],381,1991,0
 68,Rorbas,Leerwohnungen Total [Anz.],381,1992,13
@@ -6793,6 +7002,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 68,Rorbas,Leerwohnungen Total [Anz.],381,2020,24
 68,Rorbas,Leerwohnungen Total [Anz.],381,2021,11
 68,Rorbas,Leerwohnungen Total [Anz.],381,2022,7
+68,Rorbas,Leerwohnungen Total [Anz.],381,2023,5
 69,Wallisellen,Leerwohnungen Total [Anz.],381,1990,5
 69,Wallisellen,Leerwohnungen Total [Anz.],381,1991,13
 69,Wallisellen,Leerwohnungen Total [Anz.],381,1992,32
@@ -6826,6 +7036,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 69,Wallisellen,Leerwohnungen Total [Anz.],381,2020,68
 69,Wallisellen,Leerwohnungen Total [Anz.],381,2021,83
 69,Wallisellen,Leerwohnungen Total [Anz.],381,2022,80
+69,Wallisellen,Leerwohnungen Total [Anz.],381,2023,299
 70,Wasterkingen,Leerwohnungen Total [Anz.],381,1990,1
 70,Wasterkingen,Leerwohnungen Total [Anz.],381,1991,1
 70,Wasterkingen,Leerwohnungen Total [Anz.],381,1992,6
@@ -6859,6 +7070,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 70,Wasterkingen,Leerwohnungen Total [Anz.],381,2020,3
 70,Wasterkingen,Leerwohnungen Total [Anz.],381,2021,8
 70,Wasterkingen,Leerwohnungen Total [Anz.],381,2022,5
+70,Wasterkingen,Leerwohnungen Total [Anz.],381,2023,10
 71,Wil,Leerwohnungen Total [Anz.],381,1990,4
 71,Wil,Leerwohnungen Total [Anz.],381,1991,1
 71,Wil,Leerwohnungen Total [Anz.],381,1992,0
@@ -6892,6 +7104,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 71,Wil,Leerwohnungen Total [Anz.],381,2020,16
 71,Wil,Leerwohnungen Total [Anz.],381,2021,5
 71,Wil,Leerwohnungen Total [Anz.],381,2022,6
+71,Wil,Leerwohnungen Total [Anz.],381,2023,7
 72,Winkel,Leerwohnungen Total [Anz.],381,1990,0
 72,Winkel,Leerwohnungen Total [Anz.],381,1991,0
 72,Winkel,Leerwohnungen Total [Anz.],381,1992,0
@@ -6925,6 +7138,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 72,Winkel,Leerwohnungen Total [Anz.],381,2020,13
 72,Winkel,Leerwohnungen Total [Anz.],381,2021,14
 72,Winkel,Leerwohnungen Total [Anz.],381,2022,2
+72,Winkel,Leerwohnungen Total [Anz.],381,2023,9
 81,Bachs,Leerwohnungen Total [Anz.],381,1990,0
 81,Bachs,Leerwohnungen Total [Anz.],381,1991,0
 81,Bachs,Leerwohnungen Total [Anz.],381,1992,1
@@ -6958,6 +7172,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 81,Bachs,Leerwohnungen Total [Anz.],381,2020,0
 81,Bachs,Leerwohnungen Total [Anz.],381,2021,2
 81,Bachs,Leerwohnungen Total [Anz.],381,2022,3
+81,Bachs,Leerwohnungen Total [Anz.],381,2023,1
 82,Boppelsen,Leerwohnungen Total [Anz.],381,1990,0
 82,Boppelsen,Leerwohnungen Total [Anz.],381,1991,3
 82,Boppelsen,Leerwohnungen Total [Anz.],381,1992,0
@@ -6991,6 +7206,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 82,Boppelsen,Leerwohnungen Total [Anz.],381,2020,4
 82,Boppelsen,Leerwohnungen Total [Anz.],381,2021,2
 82,Boppelsen,Leerwohnungen Total [Anz.],381,2022,0
+82,Boppelsen,Leerwohnungen Total [Anz.],381,2023,2
 83,Buchs,Leerwohnungen Total [Anz.],381,1990,1
 83,Buchs,Leerwohnungen Total [Anz.],381,1991,23
 83,Buchs,Leerwohnungen Total [Anz.],381,1992,2
@@ -7024,6 +7240,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 83,Buchs,Leerwohnungen Total [Anz.],381,2020,45
 83,Buchs,Leerwohnungen Total [Anz.],381,2021,35
 83,Buchs,Leerwohnungen Total [Anz.],381,2022,38
+83,Buchs,Leerwohnungen Total [Anz.],381,2023,28
 84,Dällikon,Leerwohnungen Total [Anz.],381,1990,0
 84,Dällikon,Leerwohnungen Total [Anz.],381,1991,2
 84,Dällikon,Leerwohnungen Total [Anz.],381,1992,0
@@ -7057,6 +7274,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 84,Dällikon,Leerwohnungen Total [Anz.],381,2020,5
 84,Dällikon,Leerwohnungen Total [Anz.],381,2021,4
 84,Dällikon,Leerwohnungen Total [Anz.],381,2022,7
+84,Dällikon,Leerwohnungen Total [Anz.],381,2023,2
 85,Dänikon,Leerwohnungen Total [Anz.],381,1990,4
 85,Dänikon,Leerwohnungen Total [Anz.],381,1991,4
 85,Dänikon,Leerwohnungen Total [Anz.],381,1992,17
@@ -7090,6 +7308,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 85,Dänikon,Leerwohnungen Total [Anz.],381,2020,4
 85,Dänikon,Leerwohnungen Total [Anz.],381,2021,3
 85,Dänikon,Leerwohnungen Total [Anz.],381,2022,0
+85,Dänikon,Leerwohnungen Total [Anz.],381,2023,1
 86,Dielsdorf,Leerwohnungen Total [Anz.],381,1990,0
 86,Dielsdorf,Leerwohnungen Total [Anz.],381,1991,3
 86,Dielsdorf,Leerwohnungen Total [Anz.],381,1992,0
@@ -7123,6 +7342,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 86,Dielsdorf,Leerwohnungen Total [Anz.],381,2020,20
 86,Dielsdorf,Leerwohnungen Total [Anz.],381,2021,47
 86,Dielsdorf,Leerwohnungen Total [Anz.],381,2022,10
+86,Dielsdorf,Leerwohnungen Total [Anz.],381,2023,7
 87,Hüttikon,Leerwohnungen Total [Anz.],381,1990,4
 87,Hüttikon,Leerwohnungen Total [Anz.],381,1991,3
 87,Hüttikon,Leerwohnungen Total [Anz.],381,1992,0
@@ -7156,6 +7376,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 87,Hüttikon,Leerwohnungen Total [Anz.],381,2020,1
 87,Hüttikon,Leerwohnungen Total [Anz.],381,2021,1
 87,Hüttikon,Leerwohnungen Total [Anz.],381,2022,1
+87,Hüttikon,Leerwohnungen Total [Anz.],381,2023,2
 88,Neerach,Leerwohnungen Total [Anz.],381,1990,5
 88,Neerach,Leerwohnungen Total [Anz.],381,1991,3
 88,Neerach,Leerwohnungen Total [Anz.],381,1992,9
@@ -7189,6 +7410,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 88,Neerach,Leerwohnungen Total [Anz.],381,2020,15
 88,Neerach,Leerwohnungen Total [Anz.],381,2021,12
 88,Neerach,Leerwohnungen Total [Anz.],381,2022,7
+88,Neerach,Leerwohnungen Total [Anz.],381,2023,7
 89,Niederglatt,Leerwohnungen Total [Anz.],381,1990,0
 89,Niederglatt,Leerwohnungen Total [Anz.],381,1991,4
 89,Niederglatt,Leerwohnungen Total [Anz.],381,1992,1
@@ -7222,6 +7444,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 89,Niederglatt,Leerwohnungen Total [Anz.],381,2020,23
 89,Niederglatt,Leerwohnungen Total [Anz.],381,2021,22
 89,Niederglatt,Leerwohnungen Total [Anz.],381,2022,18
+89,Niederglatt,Leerwohnungen Total [Anz.],381,2023,8
 90,Niederhasli,Leerwohnungen Total [Anz.],381,1990,0
 90,Niederhasli,Leerwohnungen Total [Anz.],381,1991,10
 90,Niederhasli,Leerwohnungen Total [Anz.],381,1992,7
@@ -7255,6 +7478,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 90,Niederhasli,Leerwohnungen Total [Anz.],381,2020,56
 90,Niederhasli,Leerwohnungen Total [Anz.],381,2021,42
 90,Niederhasli,Leerwohnungen Total [Anz.],381,2022,45
+90,Niederhasli,Leerwohnungen Total [Anz.],381,2023,42
 91,Niederweningen,Leerwohnungen Total [Anz.],381,1990,1
 91,Niederweningen,Leerwohnungen Total [Anz.],381,1991,0
 91,Niederweningen,Leerwohnungen Total [Anz.],381,1992,0
@@ -7288,6 +7512,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 91,Niederweningen,Leerwohnungen Total [Anz.],381,2020,13
 91,Niederweningen,Leerwohnungen Total [Anz.],381,2021,4
 91,Niederweningen,Leerwohnungen Total [Anz.],381,2022,4
+91,Niederweningen,Leerwohnungen Total [Anz.],381,2023,10
 92,Oberglatt,Leerwohnungen Total [Anz.],381,1990,6
 92,Oberglatt,Leerwohnungen Total [Anz.],381,1991,22
 92,Oberglatt,Leerwohnungen Total [Anz.],381,1992,9
@@ -7321,6 +7546,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 92,Oberglatt,Leerwohnungen Total [Anz.],381,2020,15
 92,Oberglatt,Leerwohnungen Total [Anz.],381,2021,13
 92,Oberglatt,Leerwohnungen Total [Anz.],381,2022,16
+92,Oberglatt,Leerwohnungen Total [Anz.],381,2023,20
 93,Oberweningen,Leerwohnungen Total [Anz.],381,1990,0
 93,Oberweningen,Leerwohnungen Total [Anz.],381,1991,0
 93,Oberweningen,Leerwohnungen Total [Anz.],381,1992,1
@@ -7354,6 +7580,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 93,Oberweningen,Leerwohnungen Total [Anz.],381,2020,11
 93,Oberweningen,Leerwohnungen Total [Anz.],381,2021,8
 93,Oberweningen,Leerwohnungen Total [Anz.],381,2022,11
+93,Oberweningen,Leerwohnungen Total [Anz.],381,2023,9
 94,Otelfingen,Leerwohnungen Total [Anz.],381,1990,0
 94,Otelfingen,Leerwohnungen Total [Anz.],381,1991,0
 94,Otelfingen,Leerwohnungen Total [Anz.],381,1992,0
@@ -7387,6 +7614,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 94,Otelfingen,Leerwohnungen Total [Anz.],381,2020,21
 94,Otelfingen,Leerwohnungen Total [Anz.],381,2021,14
 94,Otelfingen,Leerwohnungen Total [Anz.],381,2022,15
+94,Otelfingen,Leerwohnungen Total [Anz.],381,2023,13
 95,Regensberg,Leerwohnungen Total [Anz.],381,1990,1
 95,Regensberg,Leerwohnungen Total [Anz.],381,1991,1
 95,Regensberg,Leerwohnungen Total [Anz.],381,1992,0
@@ -7420,6 +7648,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 95,Regensberg,Leerwohnungen Total [Anz.],381,2020,4
 95,Regensberg,Leerwohnungen Total [Anz.],381,2021,2
 95,Regensberg,Leerwohnungen Total [Anz.],381,2022,9
+95,Regensberg,Leerwohnungen Total [Anz.],381,2023,6
 96,Regensdorf,Leerwohnungen Total [Anz.],381,1990,0
 96,Regensdorf,Leerwohnungen Total [Anz.],381,1991,14
 96,Regensdorf,Leerwohnungen Total [Anz.],381,1992,41
@@ -7453,6 +7682,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 96,Regensdorf,Leerwohnungen Total [Anz.],381,2020,46
 96,Regensdorf,Leerwohnungen Total [Anz.],381,2021,51
 96,Regensdorf,Leerwohnungen Total [Anz.],381,2022,35
+96,Regensdorf,Leerwohnungen Total [Anz.],381,2023,46
 97,Rümlang,Leerwohnungen Total [Anz.],381,1990,0
 97,Rümlang,Leerwohnungen Total [Anz.],381,1991,0
 97,Rümlang,Leerwohnungen Total [Anz.],381,1992,3
@@ -7486,6 +7716,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 97,Rümlang,Leerwohnungen Total [Anz.],381,2020,42
 97,Rümlang,Leerwohnungen Total [Anz.],381,2021,64
 97,Rümlang,Leerwohnungen Total [Anz.],381,2022,36
+97,Rümlang,Leerwohnungen Total [Anz.],381,2023,36
 98,Schleinikon,Leerwohnungen Total [Anz.],381,1990,0
 98,Schleinikon,Leerwohnungen Total [Anz.],381,1991,0
 98,Schleinikon,Leerwohnungen Total [Anz.],381,1992,1
@@ -7519,6 +7750,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 98,Schleinikon,Leerwohnungen Total [Anz.],381,2020,2
 98,Schleinikon,Leerwohnungen Total [Anz.],381,2021,2
 98,Schleinikon,Leerwohnungen Total [Anz.],381,2022,1
+98,Schleinikon,Leerwohnungen Total [Anz.],381,2023,3
 99,Schöfflisdorf,Leerwohnungen Total [Anz.],381,1990,0
 99,Schöfflisdorf,Leerwohnungen Total [Anz.],381,1991,2
 99,Schöfflisdorf,Leerwohnungen Total [Anz.],381,1992,0
@@ -7552,6 +7784,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 99,Schöfflisdorf,Leerwohnungen Total [Anz.],381,2020,4
 99,Schöfflisdorf,Leerwohnungen Total [Anz.],381,2021,15
 99,Schöfflisdorf,Leerwohnungen Total [Anz.],381,2022,2
+99,Schöfflisdorf,Leerwohnungen Total [Anz.],381,2023,5
 100,Stadel,Leerwohnungen Total [Anz.],381,1990,5
 100,Stadel,Leerwohnungen Total [Anz.],381,1991,4
 100,Stadel,Leerwohnungen Total [Anz.],381,1992,11
@@ -7585,6 +7818,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 100,Stadel,Leerwohnungen Total [Anz.],381,2020,19
 100,Stadel,Leerwohnungen Total [Anz.],381,2021,10
 100,Stadel,Leerwohnungen Total [Anz.],381,2022,27
+100,Stadel,Leerwohnungen Total [Anz.],381,2023,9
 101,Steinmaur,Leerwohnungen Total [Anz.],381,1990,0
 101,Steinmaur,Leerwohnungen Total [Anz.],381,1991,0
 101,Steinmaur,Leerwohnungen Total [Anz.],381,1992,1
@@ -7618,6 +7852,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 101,Steinmaur,Leerwohnungen Total [Anz.],381,2020,41
 101,Steinmaur,Leerwohnungen Total [Anz.],381,2021,31
 101,Steinmaur,Leerwohnungen Total [Anz.],381,2022,16
+101,Steinmaur,Leerwohnungen Total [Anz.],381,2023,17
 102,Weiach,Leerwohnungen Total [Anz.],381,1990,0
 102,Weiach,Leerwohnungen Total [Anz.],381,1991,0
 102,Weiach,Leerwohnungen Total [Anz.],381,1992,3
@@ -7651,6 +7886,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 102,Weiach,Leerwohnungen Total [Anz.],381,2020,30
 102,Weiach,Leerwohnungen Total [Anz.],381,2021,9
 102,Weiach,Leerwohnungen Total [Anz.],381,2022,3
+102,Weiach,Leerwohnungen Total [Anz.],381,2023,5
 111,Bäretswil,Leerwohnungen Total [Anz.],381,1990,4
 111,Bäretswil,Leerwohnungen Total [Anz.],381,1991,6
 111,Bäretswil,Leerwohnungen Total [Anz.],381,1992,7
@@ -7684,6 +7920,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 111,Bäretswil,Leerwohnungen Total [Anz.],381,2020,34
 111,Bäretswil,Leerwohnungen Total [Anz.],381,2021,23
 111,Bäretswil,Leerwohnungen Total [Anz.],381,2022,34
+111,Bäretswil,Leerwohnungen Total [Anz.],381,2023,16
 112,Bubikon,Leerwohnungen Total [Anz.],381,1990,0
 112,Bubikon,Leerwohnungen Total [Anz.],381,1991,12
 112,Bubikon,Leerwohnungen Total [Anz.],381,1992,10
@@ -7717,6 +7954,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 112,Bubikon,Leerwohnungen Total [Anz.],381,2020,34
 112,Bubikon,Leerwohnungen Total [Anz.],381,2021,22
 112,Bubikon,Leerwohnungen Total [Anz.],381,2022,15
+112,Bubikon,Leerwohnungen Total [Anz.],381,2023,24
 113,Dürnten,Leerwohnungen Total [Anz.],381,1990,0
 113,Dürnten,Leerwohnungen Total [Anz.],381,1991,0
 113,Dürnten,Leerwohnungen Total [Anz.],381,1992,8
@@ -7750,6 +7988,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 113,Dürnten,Leerwohnungen Total [Anz.],381,2020,66
 113,Dürnten,Leerwohnungen Total [Anz.],381,2021,34
 113,Dürnten,Leerwohnungen Total [Anz.],381,2022,19
+113,Dürnten,Leerwohnungen Total [Anz.],381,2023,26
 114,Fischenthal,Leerwohnungen Total [Anz.],381,1990,0
 114,Fischenthal,Leerwohnungen Total [Anz.],381,1991,0
 114,Fischenthal,Leerwohnungen Total [Anz.],381,1992,0
@@ -7783,6 +8022,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 114,Fischenthal,Leerwohnungen Total [Anz.],381,2020,15
 114,Fischenthal,Leerwohnungen Total [Anz.],381,2021,8
 114,Fischenthal,Leerwohnungen Total [Anz.],381,2022,26
+114,Fischenthal,Leerwohnungen Total [Anz.],381,2023,22
 115,Gossau,Leerwohnungen Total [Anz.],381,1990,0
 115,Gossau,Leerwohnungen Total [Anz.],381,1991,11
 115,Gossau,Leerwohnungen Total [Anz.],381,1992,6
@@ -7816,6 +8056,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 115,Gossau,Leerwohnungen Total [Anz.],381,2020,42
 115,Gossau,Leerwohnungen Total [Anz.],381,2021,46
 115,Gossau,Leerwohnungen Total [Anz.],381,2022,56
+115,Gossau,Leerwohnungen Total [Anz.],381,2023,16
 116,Grüningen,Leerwohnungen Total [Anz.],381,1990,0
 116,Grüningen,Leerwohnungen Total [Anz.],381,1991,0
 116,Grüningen,Leerwohnungen Total [Anz.],381,1992,3
@@ -7849,6 +8090,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 116,Grüningen,Leerwohnungen Total [Anz.],381,2020,16
 116,Grüningen,Leerwohnungen Total [Anz.],381,2021,26
 116,Grüningen,Leerwohnungen Total [Anz.],381,2022,8
+116,Grüningen,Leerwohnungen Total [Anz.],381,2023,15
 117,Hinwil,Leerwohnungen Total [Anz.],381,1990,0
 117,Hinwil,Leerwohnungen Total [Anz.],381,1991,0
 117,Hinwil,Leerwohnungen Total [Anz.],381,1992,0
@@ -7882,6 +8124,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 117,Hinwil,Leerwohnungen Total [Anz.],381,2020,67
 117,Hinwil,Leerwohnungen Total [Anz.],381,2021,44
 117,Hinwil,Leerwohnungen Total [Anz.],381,2022,51
+117,Hinwil,Leerwohnungen Total [Anz.],381,2023,53
 118,Rüti,Leerwohnungen Total [Anz.],381,1990,8
 118,Rüti,Leerwohnungen Total [Anz.],381,1991,20
 118,Rüti,Leerwohnungen Total [Anz.],381,1992,42
@@ -7915,6 +8158,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 118,Rüti,Leerwohnungen Total [Anz.],381,2020,65
 118,Rüti,Leerwohnungen Total [Anz.],381,2021,62
 118,Rüti,Leerwohnungen Total [Anz.],381,2022,50
+118,Rüti,Leerwohnungen Total [Anz.],381,2023,32
 119,Seegräben,Leerwohnungen Total [Anz.],381,1990,0
 119,Seegräben,Leerwohnungen Total [Anz.],381,1991,0
 119,Seegräben,Leerwohnungen Total [Anz.],381,1992,6
@@ -7948,6 +8192,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 119,Seegräben,Leerwohnungen Total [Anz.],381,2020,11
 119,Seegräben,Leerwohnungen Total [Anz.],381,2021,2
 119,Seegräben,Leerwohnungen Total [Anz.],381,2022,4
+119,Seegräben,Leerwohnungen Total [Anz.],381,2023,1
 120,Wald,Leerwohnungen Total [Anz.],381,1990,1
 120,Wald,Leerwohnungen Total [Anz.],381,1991,3
 120,Wald,Leerwohnungen Total [Anz.],381,1992,9
@@ -7981,6 +8226,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 120,Wald,Leerwohnungen Total [Anz.],381,2020,156
 120,Wald,Leerwohnungen Total [Anz.],381,2021,80
 120,Wald,Leerwohnungen Total [Anz.],381,2022,79
+120,Wald,Leerwohnungen Total [Anz.],381,2023,104
 121,Wetzikon,Leerwohnungen Total [Anz.],381,1990,7
 121,Wetzikon,Leerwohnungen Total [Anz.],381,1991,61
 121,Wetzikon,Leerwohnungen Total [Anz.],381,1992,104
@@ -8014,6 +8260,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 121,Wetzikon,Leerwohnungen Total [Anz.],381,2020,275
 121,Wetzikon,Leerwohnungen Total [Anz.],381,2021,260
 121,Wetzikon,Leerwohnungen Total [Anz.],381,2022,173
+121,Wetzikon,Leerwohnungen Total [Anz.],381,2023,126
 131,Adliswil,Leerwohnungen Total [Anz.],381,1990,0
 131,Adliswil,Leerwohnungen Total [Anz.],381,1991,2
 131,Adliswil,Leerwohnungen Total [Anz.],381,1992,36
@@ -8047,6 +8294,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 131,Adliswil,Leerwohnungen Total [Anz.],381,2020,81
 131,Adliswil,Leerwohnungen Total [Anz.],381,2021,70
 131,Adliswil,Leerwohnungen Total [Anz.],381,2022,68
+131,Adliswil,Leerwohnungen Total [Anz.],381,2023,44
 135,Kilchberg,Leerwohnungen Total [Anz.],381,1990,3
 135,Kilchberg,Leerwohnungen Total [Anz.],381,1991,8
 135,Kilchberg,Leerwohnungen Total [Anz.],381,1992,5
@@ -8080,6 +8328,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 135,Kilchberg,Leerwohnungen Total [Anz.],381,2020,58
 135,Kilchberg,Leerwohnungen Total [Anz.],381,2021,39
 135,Kilchberg,Leerwohnungen Total [Anz.],381,2022,40
+135,Kilchberg,Leerwohnungen Total [Anz.],381,2023,19
 136,Langnau a.A.,Leerwohnungen Total [Anz.],381,1990,3
 136,Langnau a.A.,Leerwohnungen Total [Anz.],381,1991,5
 136,Langnau a.A.,Leerwohnungen Total [Anz.],381,1992,3
@@ -8113,6 +8362,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 136,Langnau a.A.,Leerwohnungen Total [Anz.],381,2020,22
 136,Langnau a.A.,Leerwohnungen Total [Anz.],381,2021,29
 136,Langnau a.A.,Leerwohnungen Total [Anz.],381,2022,18
+136,Langnau a.A.,Leerwohnungen Total [Anz.],381,2023,22
 137,Oberrieden,Leerwohnungen Total [Anz.],381,1990,0
 137,Oberrieden,Leerwohnungen Total [Anz.],381,1991,1
 137,Oberrieden,Leerwohnungen Total [Anz.],381,1992,1
@@ -8146,6 +8396,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 137,Oberrieden,Leerwohnungen Total [Anz.],381,2020,9
 137,Oberrieden,Leerwohnungen Total [Anz.],381,2021,6
 137,Oberrieden,Leerwohnungen Total [Anz.],381,2022,4
+137,Oberrieden,Leerwohnungen Total [Anz.],381,2023,3
 138,Richterswil,Leerwohnungen Total [Anz.],381,1990,0
 138,Richterswil,Leerwohnungen Total [Anz.],381,1991,7
 138,Richterswil,Leerwohnungen Total [Anz.],381,1992,4
@@ -8179,6 +8430,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 138,Richterswil,Leerwohnungen Total [Anz.],381,2020,83
 138,Richterswil,Leerwohnungen Total [Anz.],381,2021,103
 138,Richterswil,Leerwohnungen Total [Anz.],381,2022,156
+138,Richterswil,Leerwohnungen Total [Anz.],381,2023,70
 139,Rüschlikon,Leerwohnungen Total [Anz.],381,1990,1
 139,Rüschlikon,Leerwohnungen Total [Anz.],381,1991,21
 139,Rüschlikon,Leerwohnungen Total [Anz.],381,1992,25
@@ -8212,6 +8464,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 139,Rüschlikon,Leerwohnungen Total [Anz.],381,2020,17
 139,Rüschlikon,Leerwohnungen Total [Anz.],381,2021,10
 139,Rüschlikon,Leerwohnungen Total [Anz.],381,2022,21
+139,Rüschlikon,Leerwohnungen Total [Anz.],381,2023,19
 141,Thalwil,Leerwohnungen Total [Anz.],381,1990,2
 141,Thalwil,Leerwohnungen Total [Anz.],381,1991,4
 141,Thalwil,Leerwohnungen Total [Anz.],381,1992,12
@@ -8245,6 +8498,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 141,Thalwil,Leerwohnungen Total [Anz.],381,2020,19
 141,Thalwil,Leerwohnungen Total [Anz.],381,2021,45
 141,Thalwil,Leerwohnungen Total [Anz.],381,2022,9
+141,Thalwil,Leerwohnungen Total [Anz.],381,2023,25
 151,Erlenbach,Leerwohnungen Total [Anz.],381,1990,0
 151,Erlenbach,Leerwohnungen Total [Anz.],381,1991,0
 151,Erlenbach,Leerwohnungen Total [Anz.],381,1992,6
@@ -8278,6 +8532,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 151,Erlenbach,Leerwohnungen Total [Anz.],381,2020,14
 151,Erlenbach,Leerwohnungen Total [Anz.],381,2021,6
 151,Erlenbach,Leerwohnungen Total [Anz.],381,2022,7
+151,Erlenbach,Leerwohnungen Total [Anz.],381,2023,9
 152,Herrliberg,Leerwohnungen Total [Anz.],381,1990,2
 152,Herrliberg,Leerwohnungen Total [Anz.],381,1991,42
 152,Herrliberg,Leerwohnungen Total [Anz.],381,1992,48
@@ -8311,6 +8566,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 152,Herrliberg,Leerwohnungen Total [Anz.],381,2020,43
 152,Herrliberg,Leerwohnungen Total [Anz.],381,2021,34
 152,Herrliberg,Leerwohnungen Total [Anz.],381,2022,29
+152,Herrliberg,Leerwohnungen Total [Anz.],381,2023,31
 153,Hombrechtikon,Leerwohnungen Total [Anz.],381,1990,0
 153,Hombrechtikon,Leerwohnungen Total [Anz.],381,1991,1
 153,Hombrechtikon,Leerwohnungen Total [Anz.],381,1992,10
@@ -8344,6 +8600,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 153,Hombrechtikon,Leerwohnungen Total [Anz.],381,2020,95
 153,Hombrechtikon,Leerwohnungen Total [Anz.],381,2021,49
 153,Hombrechtikon,Leerwohnungen Total [Anz.],381,2022,19
+153,Hombrechtikon,Leerwohnungen Total [Anz.],381,2023,45
 154,Küsnacht,Leerwohnungen Total [Anz.],381,1990,38
 154,Küsnacht,Leerwohnungen Total [Anz.],381,1991,46
 154,Küsnacht,Leerwohnungen Total [Anz.],381,1992,62
@@ -8377,6 +8634,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 154,Küsnacht,Leerwohnungen Total [Anz.],381,2020,302
 154,Küsnacht,Leerwohnungen Total [Anz.],381,2021,212
 154,Küsnacht,Leerwohnungen Total [Anz.],381,2022,250
+154,Küsnacht,Leerwohnungen Total [Anz.],381,2023,87
 155,Männedorf,Leerwohnungen Total [Anz.],381,1990,3
 155,Männedorf,Leerwohnungen Total [Anz.],381,1991,3
 155,Männedorf,Leerwohnungen Total [Anz.],381,1992,4
@@ -8410,6 +8668,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 155,Männedorf,Leerwohnungen Total [Anz.],381,2020,68
 155,Männedorf,Leerwohnungen Total [Anz.],381,2021,42
 155,Männedorf,Leerwohnungen Total [Anz.],381,2022,42
+155,Männedorf,Leerwohnungen Total [Anz.],381,2023,30
 156,Meilen,Leerwohnungen Total [Anz.],381,1990,0
 156,Meilen,Leerwohnungen Total [Anz.],381,1991,27
 156,Meilen,Leerwohnungen Total [Anz.],381,1992,1
@@ -8443,6 +8702,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 156,Meilen,Leerwohnungen Total [Anz.],381,2020,155
 156,Meilen,Leerwohnungen Total [Anz.],381,2021,117
 156,Meilen,Leerwohnungen Total [Anz.],381,2022,107
+156,Meilen,Leerwohnungen Total [Anz.],381,2023,101
 157,Oetwil a.S.,Leerwohnungen Total [Anz.],381,1990,0
 157,Oetwil a.S.,Leerwohnungen Total [Anz.],381,1991,2
 157,Oetwil a.S.,Leerwohnungen Total [Anz.],381,1992,0
@@ -8476,6 +8736,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 157,Oetwil a.S.,Leerwohnungen Total [Anz.],381,2020,28
 157,Oetwil a.S.,Leerwohnungen Total [Anz.],381,2021,20
 157,Oetwil a.S.,Leerwohnungen Total [Anz.],381,2022,20
+157,Oetwil a.S.,Leerwohnungen Total [Anz.],381,2023,30
 158,Stäfa,Leerwohnungen Total [Anz.],381,1990,20
 158,Stäfa,Leerwohnungen Total [Anz.],381,1991,12
 158,Stäfa,Leerwohnungen Total [Anz.],381,1992,21
@@ -8509,6 +8770,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 158,Stäfa,Leerwohnungen Total [Anz.],381,2020,75
 158,Stäfa,Leerwohnungen Total [Anz.],381,2021,52
 158,Stäfa,Leerwohnungen Total [Anz.],381,2022,59
+158,Stäfa,Leerwohnungen Total [Anz.],381,2023,36
 159,Uetikon a.S.,Leerwohnungen Total [Anz.],381,1990,5
 159,Uetikon a.S.,Leerwohnungen Total [Anz.],381,1991,3
 159,Uetikon a.S.,Leerwohnungen Total [Anz.],381,1992,0
@@ -8542,6 +8804,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 159,Uetikon a.S.,Leerwohnungen Total [Anz.],381,2020,55
 159,Uetikon a.S.,Leerwohnungen Total [Anz.],381,2021,37
 159,Uetikon a.S.,Leerwohnungen Total [Anz.],381,2022,32
+159,Uetikon a.S.,Leerwohnungen Total [Anz.],381,2023,26
 160,Zumikon,Leerwohnungen Total [Anz.],381,1990,0
 160,Zumikon,Leerwohnungen Total [Anz.],381,1991,0
 160,Zumikon,Leerwohnungen Total [Anz.],381,1992,0
@@ -8575,6 +8838,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 160,Zumikon,Leerwohnungen Total [Anz.],381,2020,25
 160,Zumikon,Leerwohnungen Total [Anz.],381,2021,20
 160,Zumikon,Leerwohnungen Total [Anz.],381,2022,17
+160,Zumikon,Leerwohnungen Total [Anz.],381,2023,19
 161,Zollikon,Leerwohnungen Total [Anz.],381,1990,1
 161,Zollikon,Leerwohnungen Total [Anz.],381,1991,7
 161,Zollikon,Leerwohnungen Total [Anz.],381,1992,1
@@ -8608,6 +8872,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 161,Zollikon,Leerwohnungen Total [Anz.],381,2020,95
 161,Zollikon,Leerwohnungen Total [Anz.],381,2021,56
 161,Zollikon,Leerwohnungen Total [Anz.],381,2022,42
+161,Zollikon,Leerwohnungen Total [Anz.],381,2023,36
 172,Fehraltorf,Leerwohnungen Total [Anz.],381,1990,4
 172,Fehraltorf,Leerwohnungen Total [Anz.],381,1991,5
 172,Fehraltorf,Leerwohnungen Total [Anz.],381,1992,11
@@ -8641,6 +8906,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 172,Fehraltorf,Leerwohnungen Total [Anz.],381,2020,78
 172,Fehraltorf,Leerwohnungen Total [Anz.],381,2021,64
 172,Fehraltorf,Leerwohnungen Total [Anz.],381,2022,55
+172,Fehraltorf,Leerwohnungen Total [Anz.],381,2023,62
 173,Hittnau,Leerwohnungen Total [Anz.],381,1990,6
 173,Hittnau,Leerwohnungen Total [Anz.],381,1991,6
 173,Hittnau,Leerwohnungen Total [Anz.],381,1992,15
@@ -8674,6 +8940,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 173,Hittnau,Leerwohnungen Total [Anz.],381,2020,27
 173,Hittnau,Leerwohnungen Total [Anz.],381,2021,19
 173,Hittnau,Leerwohnungen Total [Anz.],381,2022,29
+173,Hittnau,Leerwohnungen Total [Anz.],381,2023,16
 176,Lindau,Leerwohnungen Total [Anz.],381,1990,0
 176,Lindau,Leerwohnungen Total [Anz.],381,1991,0
 176,Lindau,Leerwohnungen Total [Anz.],381,1992,1
@@ -8707,6 +8974,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 176,Lindau,Leerwohnungen Total [Anz.],381,2020,6
 176,Lindau,Leerwohnungen Total [Anz.],381,2021,7
 176,Lindau,Leerwohnungen Total [Anz.],381,2022,7
+176,Lindau,Leerwohnungen Total [Anz.],381,2023,12
 177,Pfäffikon,Leerwohnungen Total [Anz.],381,1990,0
 177,Pfäffikon,Leerwohnungen Total [Anz.],381,1991,10
 177,Pfäffikon,Leerwohnungen Total [Anz.],381,1992,6
@@ -8740,6 +9008,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 177,Pfäffikon,Leerwohnungen Total [Anz.],381,2020,103
 177,Pfäffikon,Leerwohnungen Total [Anz.],381,2021,113
 177,Pfäffikon,Leerwohnungen Total [Anz.],381,2022,65
+177,Pfäffikon,Leerwohnungen Total [Anz.],381,2023,67
 178,Russikon,Leerwohnungen Total [Anz.],381,1990,10
 178,Russikon,Leerwohnungen Total [Anz.],381,1991,7
 178,Russikon,Leerwohnungen Total [Anz.],381,1992,6
@@ -8773,6 +9042,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 178,Russikon,Leerwohnungen Total [Anz.],381,2020,12
 178,Russikon,Leerwohnungen Total [Anz.],381,2021,16
 178,Russikon,Leerwohnungen Total [Anz.],381,2022,12
+178,Russikon,Leerwohnungen Total [Anz.],381,2023,20
 180,Weisslingen,Leerwohnungen Total [Anz.],381,1990,0
 180,Weisslingen,Leerwohnungen Total [Anz.],381,1991,0
 180,Weisslingen,Leerwohnungen Total [Anz.],381,1992,10
@@ -8806,6 +9076,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 180,Weisslingen,Leerwohnungen Total [Anz.],381,2020,7
 180,Weisslingen,Leerwohnungen Total [Anz.],381,2021,5
 180,Weisslingen,Leerwohnungen Total [Anz.],381,2022,11
+180,Weisslingen,Leerwohnungen Total [Anz.],381,2023,6
 181,Wila,Leerwohnungen Total [Anz.],381,1990,0
 181,Wila,Leerwohnungen Total [Anz.],381,1991,0
 181,Wila,Leerwohnungen Total [Anz.],381,1992,1
@@ -8839,6 +9110,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 181,Wila,Leerwohnungen Total [Anz.],381,2020,12
 181,Wila,Leerwohnungen Total [Anz.],381,2021,12
 181,Wila,Leerwohnungen Total [Anz.],381,2022,8
+181,Wila,Leerwohnungen Total [Anz.],381,2023,5
 182,Wildberg,Leerwohnungen Total [Anz.],381,1990,1
 182,Wildberg,Leerwohnungen Total [Anz.],381,1991,0
 182,Wildberg,Leerwohnungen Total [Anz.],381,1992,1
@@ -8872,6 +9144,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 182,Wildberg,Leerwohnungen Total [Anz.],381,2020,2
 182,Wildberg,Leerwohnungen Total [Anz.],381,2021,0
 182,Wildberg,Leerwohnungen Total [Anz.],381,2022,3
+182,Wildberg,Leerwohnungen Total [Anz.],381,2023,8
 191,Dübendorf,Leerwohnungen Total [Anz.],381,1990,0
 191,Dübendorf,Leerwohnungen Total [Anz.],381,1991,17
 191,Dübendorf,Leerwohnungen Total [Anz.],381,1992,9
@@ -8905,6 +9178,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 191,Dübendorf,Leerwohnungen Total [Anz.],381,2020,217
 191,Dübendorf,Leerwohnungen Total [Anz.],381,2021,202
 191,Dübendorf,Leerwohnungen Total [Anz.],381,2022,137
+191,Dübendorf,Leerwohnungen Total [Anz.],381,2023,166
 192,Egg,Leerwohnungen Total [Anz.],381,1990,0
 192,Egg,Leerwohnungen Total [Anz.],381,1991,0
 192,Egg,Leerwohnungen Total [Anz.],381,1992,0
@@ -8938,6 +9212,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 192,Egg,Leerwohnungen Total [Anz.],381,2020,67
 192,Egg,Leerwohnungen Total [Anz.],381,2021,48
 192,Egg,Leerwohnungen Total [Anz.],381,2022,46
+192,Egg,Leerwohnungen Total [Anz.],381,2023,34
 193,Fällanden,Leerwohnungen Total [Anz.],381,1990,25
 193,Fällanden,Leerwohnungen Total [Anz.],381,1991,16
 193,Fällanden,Leerwohnungen Total [Anz.],381,1992,7
@@ -8971,6 +9246,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 193,Fällanden,Leerwohnungen Total [Anz.],381,2020,118
 193,Fällanden,Leerwohnungen Total [Anz.],381,2021,83
 193,Fällanden,Leerwohnungen Total [Anz.],381,2022,86
+193,Fällanden,Leerwohnungen Total [Anz.],381,2023,83
 194,Greifensee,Leerwohnungen Total [Anz.],381,1990,3
 194,Greifensee,Leerwohnungen Total [Anz.],381,1991,7
 194,Greifensee,Leerwohnungen Total [Anz.],381,1992,7
@@ -9004,6 +9280,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 194,Greifensee,Leerwohnungen Total [Anz.],381,2020,27
 194,Greifensee,Leerwohnungen Total [Anz.],381,2021,28
 194,Greifensee,Leerwohnungen Total [Anz.],381,2022,16
+194,Greifensee,Leerwohnungen Total [Anz.],381,2023,18
 195,Maur,Leerwohnungen Total [Anz.],381,1990,5
 195,Maur,Leerwohnungen Total [Anz.],381,1991,7
 195,Maur,Leerwohnungen Total [Anz.],381,1992,4
@@ -9037,6 +9314,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 195,Maur,Leerwohnungen Total [Anz.],381,2020,38
 195,Maur,Leerwohnungen Total [Anz.],381,2021,34
 195,Maur,Leerwohnungen Total [Anz.],381,2022,37
+195,Maur,Leerwohnungen Total [Anz.],381,2023,39
 196,Mönchaltorf,Leerwohnungen Total [Anz.],381,1990,0
 196,Mönchaltorf,Leerwohnungen Total [Anz.],381,1991,0
 196,Mönchaltorf,Leerwohnungen Total [Anz.],381,1992,0
@@ -9070,6 +9348,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 196,Mönchaltorf,Leerwohnungen Total [Anz.],381,2020,81
 196,Mönchaltorf,Leerwohnungen Total [Anz.],381,2021,7
 196,Mönchaltorf,Leerwohnungen Total [Anz.],381,2022,11
+196,Mönchaltorf,Leerwohnungen Total [Anz.],381,2023,6
 197,Schwerzenbach,Leerwohnungen Total [Anz.],381,1990,0
 197,Schwerzenbach,Leerwohnungen Total [Anz.],381,1991,0
 197,Schwerzenbach,Leerwohnungen Total [Anz.],381,1992,5
@@ -9103,6 +9382,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 197,Schwerzenbach,Leerwohnungen Total [Anz.],381,2020,14
 197,Schwerzenbach,Leerwohnungen Total [Anz.],381,2021,10
 197,Schwerzenbach,Leerwohnungen Total [Anz.],381,2022,14
+197,Schwerzenbach,Leerwohnungen Total [Anz.],381,2023,5
 198,Uster,Leerwohnungen Total [Anz.],381,1990,2
 198,Uster,Leerwohnungen Total [Anz.],381,1991,12
 198,Uster,Leerwohnungen Total [Anz.],381,1992,32
@@ -9136,6 +9416,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 198,Uster,Leerwohnungen Total [Anz.],381,2020,362
 198,Uster,Leerwohnungen Total [Anz.],381,2021,248
 198,Uster,Leerwohnungen Total [Anz.],381,2022,266
+198,Uster,Leerwohnungen Total [Anz.],381,2023,292
 199,Volketswil,Leerwohnungen Total [Anz.],381,1990,0
 199,Volketswil,Leerwohnungen Total [Anz.],381,1991,8
 199,Volketswil,Leerwohnungen Total [Anz.],381,1992,22
@@ -9169,6 +9450,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 199,Volketswil,Leerwohnungen Total [Anz.],381,2020,61
 199,Volketswil,Leerwohnungen Total [Anz.],381,2021,45
 199,Volketswil,Leerwohnungen Total [Anz.],381,2022,37
+199,Volketswil,Leerwohnungen Total [Anz.],381,2023,39
 200,Wangen-Brüttisellen,Leerwohnungen Total [Anz.],381,1990,0
 200,Wangen-Brüttisellen,Leerwohnungen Total [Anz.],381,1991,0
 200,Wangen-Brüttisellen,Leerwohnungen Total [Anz.],381,1992,16
@@ -9202,6 +9484,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 200,Wangen-Brüttisellen,Leerwohnungen Total [Anz.],381,2020,14
 200,Wangen-Brüttisellen,Leerwohnungen Total [Anz.],381,2021,16
 200,Wangen-Brüttisellen,Leerwohnungen Total [Anz.],381,2022,2
+200,Wangen-Brüttisellen,Leerwohnungen Total [Anz.],381,2023,3
 211,Altikon,Leerwohnungen Total [Anz.],381,1990,0
 211,Altikon,Leerwohnungen Total [Anz.],381,1991,0
 211,Altikon,Leerwohnungen Total [Anz.],381,1992,3
@@ -9235,6 +9518,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 211,Altikon,Leerwohnungen Total [Anz.],381,2020,4
 211,Altikon,Leerwohnungen Total [Anz.],381,2021,7
 211,Altikon,Leerwohnungen Total [Anz.],381,2022,3
+211,Altikon,Leerwohnungen Total [Anz.],381,2023,1
 213,Brütten,Leerwohnungen Total [Anz.],381,1990,3
 213,Brütten,Leerwohnungen Total [Anz.],381,1991,3
 213,Brütten,Leerwohnungen Total [Anz.],381,1992,3
@@ -9268,6 +9552,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 213,Brütten,Leerwohnungen Total [Anz.],381,2020,13
 213,Brütten,Leerwohnungen Total [Anz.],381,2021,11
 213,Brütten,Leerwohnungen Total [Anz.],381,2022,7
+213,Brütten,Leerwohnungen Total [Anz.],381,2023,14
 214,Dägerlen,Leerwohnungen Total [Anz.],381,1990,0
 214,Dägerlen,Leerwohnungen Total [Anz.],381,1991,3
 214,Dägerlen,Leerwohnungen Total [Anz.],381,1992,5
@@ -9301,6 +9586,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 214,Dägerlen,Leerwohnungen Total [Anz.],381,2020,6
 214,Dägerlen,Leerwohnungen Total [Anz.],381,2021,5
 214,Dägerlen,Leerwohnungen Total [Anz.],381,2022,8
+214,Dägerlen,Leerwohnungen Total [Anz.],381,2023,8
 215,Dättlikon,Leerwohnungen Total [Anz.],381,1990,0
 215,Dättlikon,Leerwohnungen Total [Anz.],381,1991,0
 215,Dättlikon,Leerwohnungen Total [Anz.],381,1992,0
@@ -9334,6 +9620,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 215,Dättlikon,Leerwohnungen Total [Anz.],381,2020,5
 215,Dättlikon,Leerwohnungen Total [Anz.],381,2021,1
 215,Dättlikon,Leerwohnungen Total [Anz.],381,2022,2
+215,Dättlikon,Leerwohnungen Total [Anz.],381,2023,2
 216,Dinhard,Leerwohnungen Total [Anz.],381,1990,0
 216,Dinhard,Leerwohnungen Total [Anz.],381,1991,2
 216,Dinhard,Leerwohnungen Total [Anz.],381,1992,0
@@ -9367,6 +9654,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 216,Dinhard,Leerwohnungen Total [Anz.],381,2020,7
 216,Dinhard,Leerwohnungen Total [Anz.],381,2021,2
 216,Dinhard,Leerwohnungen Total [Anz.],381,2022,1
+216,Dinhard,Leerwohnungen Total [Anz.],381,2023,0
 218,Ellikon a.d.Th.,Leerwohnungen Total [Anz.],381,1990,0
 218,Ellikon a.d.Th.,Leerwohnungen Total [Anz.],381,1991,1
 218,Ellikon a.d.Th.,Leerwohnungen Total [Anz.],381,1992,0
@@ -9400,6 +9688,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 218,Ellikon a.d.Th.,Leerwohnungen Total [Anz.],381,2020,3
 218,Ellikon a.d.Th.,Leerwohnungen Total [Anz.],381,2021,1
 218,Ellikon a.d.Th.,Leerwohnungen Total [Anz.],381,2022,5
+218,Ellikon a.d.Th.,Leerwohnungen Total [Anz.],381,2023,0
 219,Elsau,Leerwohnungen Total [Anz.],381,1990,2
 219,Elsau,Leerwohnungen Total [Anz.],381,1991,0
 219,Elsau,Leerwohnungen Total [Anz.],381,1992,2
@@ -9433,6 +9722,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 219,Elsau,Leerwohnungen Total [Anz.],381,2020,16
 219,Elsau,Leerwohnungen Total [Anz.],381,2021,18
 219,Elsau,Leerwohnungen Total [Anz.],381,2022,41
+219,Elsau,Leerwohnungen Total [Anz.],381,2023,12
 220,Hagenbuch,Leerwohnungen Total [Anz.],381,1990,1
 220,Hagenbuch,Leerwohnungen Total [Anz.],381,1991,3
 220,Hagenbuch,Leerwohnungen Total [Anz.],381,1992,10
@@ -9466,6 +9756,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 220,Hagenbuch,Leerwohnungen Total [Anz.],381,2020,14
 220,Hagenbuch,Leerwohnungen Total [Anz.],381,2021,16
 220,Hagenbuch,Leerwohnungen Total [Anz.],381,2022,7
+220,Hagenbuch,Leerwohnungen Total [Anz.],381,2023,0
 221,Hettlingen,Leerwohnungen Total [Anz.],381,1990,0
 221,Hettlingen,Leerwohnungen Total [Anz.],381,1991,0
 221,Hettlingen,Leerwohnungen Total [Anz.],381,1992,3
@@ -9499,6 +9790,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 221,Hettlingen,Leerwohnungen Total [Anz.],381,2020,29
 221,Hettlingen,Leerwohnungen Total [Anz.],381,2021,23
 221,Hettlingen,Leerwohnungen Total [Anz.],381,2022,20
+221,Hettlingen,Leerwohnungen Total [Anz.],381,2023,3
 223,Neftenbach,Leerwohnungen Total [Anz.],381,1990,0
 223,Neftenbach,Leerwohnungen Total [Anz.],381,1991,19
 223,Neftenbach,Leerwohnungen Total [Anz.],381,1992,0
@@ -9532,6 +9824,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 223,Neftenbach,Leerwohnungen Total [Anz.],381,2020,23
 223,Neftenbach,Leerwohnungen Total [Anz.],381,2021,55
 223,Neftenbach,Leerwohnungen Total [Anz.],381,2022,13
+223,Neftenbach,Leerwohnungen Total [Anz.],381,2023,14
 224,Pfungen,Leerwohnungen Total [Anz.],381,1990,0
 224,Pfungen,Leerwohnungen Total [Anz.],381,1991,18
 224,Pfungen,Leerwohnungen Total [Anz.],381,1992,2
@@ -9565,6 +9858,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 224,Pfungen,Leerwohnungen Total [Anz.],381,2020,12
 224,Pfungen,Leerwohnungen Total [Anz.],381,2021,6
 224,Pfungen,Leerwohnungen Total [Anz.],381,2022,21
+224,Pfungen,Leerwohnungen Total [Anz.],381,2023,17
 225,Rickenbach,Leerwohnungen Total [Anz.],381,1990,3
 225,Rickenbach,Leerwohnungen Total [Anz.],381,1991,2
 225,Rickenbach,Leerwohnungen Total [Anz.],381,1992,2
@@ -9598,6 +9892,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 225,Rickenbach,Leerwohnungen Total [Anz.],381,2020,6
 225,Rickenbach,Leerwohnungen Total [Anz.],381,2021,19
 225,Rickenbach,Leerwohnungen Total [Anz.],381,2022,17
+225,Rickenbach,Leerwohnungen Total [Anz.],381,2023,19
 226,Schlatt,Leerwohnungen Total [Anz.],381,1990,4
 226,Schlatt,Leerwohnungen Total [Anz.],381,1991,2
 226,Schlatt,Leerwohnungen Total [Anz.],381,1992,0
@@ -9631,6 +9926,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 226,Schlatt,Leerwohnungen Total [Anz.],381,2020,3
 226,Schlatt,Leerwohnungen Total [Anz.],381,2021,5
 226,Schlatt,Leerwohnungen Total [Anz.],381,2022,4
+226,Schlatt,Leerwohnungen Total [Anz.],381,2023,5
 227,Seuzach,Leerwohnungen Total [Anz.],381,1990,22
 227,Seuzach,Leerwohnungen Total [Anz.],381,1991,4
 227,Seuzach,Leerwohnungen Total [Anz.],381,1992,9
@@ -9664,6 +9960,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 227,Seuzach,Leerwohnungen Total [Anz.],381,2020,13
 227,Seuzach,Leerwohnungen Total [Anz.],381,2021,16
 227,Seuzach,Leerwohnungen Total [Anz.],381,2022,13
+227,Seuzach,Leerwohnungen Total [Anz.],381,2023,9
 228,Turbenthal,Leerwohnungen Total [Anz.],381,1990,3
 228,Turbenthal,Leerwohnungen Total [Anz.],381,1991,15
 228,Turbenthal,Leerwohnungen Total [Anz.],381,1992,4
@@ -9697,6 +9994,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 228,Turbenthal,Leerwohnungen Total [Anz.],381,2020,28
 228,Turbenthal,Leerwohnungen Total [Anz.],381,2021,31
 228,Turbenthal,Leerwohnungen Total [Anz.],381,2022,27
+228,Turbenthal,Leerwohnungen Total [Anz.],381,2023,43
 230,Winterthur,Leerwohnungen Total [Anz.],381,1990,47
 230,Winterthur,Leerwohnungen Total [Anz.],381,1991,40
 230,Winterthur,Leerwohnungen Total [Anz.],381,1992,58
@@ -9730,6 +10028,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 230,Winterthur,Leerwohnungen Total [Anz.],381,2020,311
 230,Winterthur,Leerwohnungen Total [Anz.],381,2021,230
 230,Winterthur,Leerwohnungen Total [Anz.],381,2022,212
+230,Winterthur,Leerwohnungen Total [Anz.],381,2023,113
 231,Zell,Leerwohnungen Total [Anz.],381,1990,0
 231,Zell,Leerwohnungen Total [Anz.],381,1991,1
 231,Zell,Leerwohnungen Total [Anz.],381,1992,0
@@ -9763,6 +10062,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 231,Zell,Leerwohnungen Total [Anz.],381,2020,22
 231,Zell,Leerwohnungen Total [Anz.],381,2021,7
 231,Zell,Leerwohnungen Total [Anz.],381,2022,1
+231,Zell,Leerwohnungen Total [Anz.],381,2023,8
 241,Aesch ZH,Leerwohnungen Total [Anz.],381,1990,0
 241,Aesch ZH,Leerwohnungen Total [Anz.],381,1991,0
 241,Aesch ZH,Leerwohnungen Total [Anz.],381,1992,0
@@ -9796,6 +10096,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 241,Aesch ZH,Leerwohnungen Total [Anz.],381,2020,15
 241,Aesch ZH,Leerwohnungen Total [Anz.],381,2021,7
 241,Aesch ZH,Leerwohnungen Total [Anz.],381,2022,8
+241,Aesch ZH,Leerwohnungen Total [Anz.],381,2023,7
 242,Birmensdorf,Leerwohnungen Total [Anz.],381,1990,0
 242,Birmensdorf,Leerwohnungen Total [Anz.],381,1991,0
 242,Birmensdorf,Leerwohnungen Total [Anz.],381,1992,4
@@ -9829,6 +10130,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 242,Birmensdorf,Leerwohnungen Total [Anz.],381,2020,37
 242,Birmensdorf,Leerwohnungen Total [Anz.],381,2021,23
 242,Birmensdorf,Leerwohnungen Total [Anz.],381,2022,16
+242,Birmensdorf,Leerwohnungen Total [Anz.],381,2023,32
 243,Dietikon,Leerwohnungen Total [Anz.],381,1990,7
 243,Dietikon,Leerwohnungen Total [Anz.],381,1991,14
 243,Dietikon,Leerwohnungen Total [Anz.],381,1992,13
@@ -9862,6 +10164,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 243,Dietikon,Leerwohnungen Total [Anz.],381,2020,82
 243,Dietikon,Leerwohnungen Total [Anz.],381,2021,106
 243,Dietikon,Leerwohnungen Total [Anz.],381,2022,89
+243,Dietikon,Leerwohnungen Total [Anz.],381,2023,61
 244,Geroldswil,Leerwohnungen Total [Anz.],381,1990,16
 244,Geroldswil,Leerwohnungen Total [Anz.],381,1991,11
 244,Geroldswil,Leerwohnungen Total [Anz.],381,1992,8
@@ -9895,6 +10198,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 244,Geroldswil,Leerwohnungen Total [Anz.],381,2020,49
 244,Geroldswil,Leerwohnungen Total [Anz.],381,2021,42
 244,Geroldswil,Leerwohnungen Total [Anz.],381,2022,19
+244,Geroldswil,Leerwohnungen Total [Anz.],381,2023,21
 245,Oberengstringen,Leerwohnungen Total [Anz.],381,1990,0
 245,Oberengstringen,Leerwohnungen Total [Anz.],381,1991,0
 245,Oberengstringen,Leerwohnungen Total [Anz.],381,1992,0
@@ -9928,6 +10232,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 245,Oberengstringen,Leerwohnungen Total [Anz.],381,2020,44
 245,Oberengstringen,Leerwohnungen Total [Anz.],381,2021,42
 245,Oberengstringen,Leerwohnungen Total [Anz.],381,2022,36
+245,Oberengstringen,Leerwohnungen Total [Anz.],381,2023,14
 246,Oetwil a.d.L.,Leerwohnungen Total [Anz.],381,1990,5
 246,Oetwil a.d.L.,Leerwohnungen Total [Anz.],381,1991,9
 246,Oetwil a.d.L.,Leerwohnungen Total [Anz.],381,1992,3
@@ -9961,6 +10266,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 246,Oetwil a.d.L.,Leerwohnungen Total [Anz.],381,2020,3
 246,Oetwil a.d.L.,Leerwohnungen Total [Anz.],381,2021,15
 246,Oetwil a.d.L.,Leerwohnungen Total [Anz.],381,2022,19
+246,Oetwil a.d.L.,Leerwohnungen Total [Anz.],381,2023,23
 247,Schlieren,Leerwohnungen Total [Anz.],381,1990,2
 247,Schlieren,Leerwohnungen Total [Anz.],381,1991,5
 247,Schlieren,Leerwohnungen Total [Anz.],381,1992,1
@@ -9994,6 +10300,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 247,Schlieren,Leerwohnungen Total [Anz.],381,2020,64
 247,Schlieren,Leerwohnungen Total [Anz.],381,2021,11
 247,Schlieren,Leerwohnungen Total [Anz.],381,2022,13
+247,Schlieren,Leerwohnungen Total [Anz.],381,2023,3
 248,Uitikon,Leerwohnungen Total [Anz.],381,1990,5
 248,Uitikon,Leerwohnungen Total [Anz.],381,1991,5
 248,Uitikon,Leerwohnungen Total [Anz.],381,1992,5
@@ -10027,6 +10334,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 248,Uitikon,Leerwohnungen Total [Anz.],381,2020,6
 248,Uitikon,Leerwohnungen Total [Anz.],381,2021,9
 248,Uitikon,Leerwohnungen Total [Anz.],381,2022,6
+248,Uitikon,Leerwohnungen Total [Anz.],381,2023,24
 249,Unterengstringen,Leerwohnungen Total [Anz.],381,1990,2
 249,Unterengstringen,Leerwohnungen Total [Anz.],381,1991,3
 249,Unterengstringen,Leerwohnungen Total [Anz.],381,1992,1
@@ -10060,6 +10368,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 249,Unterengstringen,Leerwohnungen Total [Anz.],381,2020,24
 249,Unterengstringen,Leerwohnungen Total [Anz.],381,2021,28
 249,Unterengstringen,Leerwohnungen Total [Anz.],381,2022,18
+249,Unterengstringen,Leerwohnungen Total [Anz.],381,2023,43
 250,Urdorf,Leerwohnungen Total [Anz.],381,1990,4
 250,Urdorf,Leerwohnungen Total [Anz.],381,1991,16
 250,Urdorf,Leerwohnungen Total [Anz.],381,1992,2
@@ -10093,6 +10402,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 250,Urdorf,Leerwohnungen Total [Anz.],381,2020,54
 250,Urdorf,Leerwohnungen Total [Anz.],381,2021,46
 250,Urdorf,Leerwohnungen Total [Anz.],381,2022,31
+250,Urdorf,Leerwohnungen Total [Anz.],381,2023,24
 251,Weiningen,Leerwohnungen Total [Anz.],381,1990,0
 251,Weiningen,Leerwohnungen Total [Anz.],381,1991,2
 251,Weiningen,Leerwohnungen Total [Anz.],381,1992,12
@@ -10126,6 +10436,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 251,Weiningen,Leerwohnungen Total [Anz.],381,2020,58
 251,Weiningen,Leerwohnungen Total [Anz.],381,2021,26
 251,Weiningen,Leerwohnungen Total [Anz.],381,2022,13
+251,Weiningen,Leerwohnungen Total [Anz.],381,2023,13
 261,Zürich,Leerwohnungen Total [Anz.],381,1990,106
 261,Zürich,Leerwohnungen Total [Anz.],381,1991,241
 261,Zürich,Leerwohnungen Total [Anz.],381,1992,384
@@ -10159,25 +10470,31 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 261,Zürich,Leerwohnungen Total [Anz.],381,2020,339
 261,Zürich,Leerwohnungen Total [Anz.],381,2021,381
 261,Zürich,Leerwohnungen Total [Anz.],381,2022,161
+261,Zürich,Leerwohnungen Total [Anz.],381,2023,144
 291,Andelfingen,Leerwohnungen Total [Anz.],381,2022,10
+291,Andelfingen,Leerwohnungen Total [Anz.],381,2023,7
 292,Stammheim,Leerwohnungen Total [Anz.],381,2019,30
 292,Stammheim,Leerwohnungen Total [Anz.],381,2020,12
 292,Stammheim,Leerwohnungen Total [Anz.],381,2021,6
 292,Stammheim,Leerwohnungen Total [Anz.],381,2022,0
+292,Stammheim,Leerwohnungen Total [Anz.],381,2023,4
 293,Wädenswil,Leerwohnungen Total [Anz.],381,2019,82
 293,Wädenswil,Leerwohnungen Total [Anz.],381,2020,82
 293,Wädenswil,Leerwohnungen Total [Anz.],381,2021,42
 293,Wädenswil,Leerwohnungen Total [Anz.],381,2022,88
+293,Wädenswil,Leerwohnungen Total [Anz.],381,2023,19
 294,Elgg,Leerwohnungen Total [Anz.],381,2018,45
 294,Elgg,Leerwohnungen Total [Anz.],381,2019,41
 294,Elgg,Leerwohnungen Total [Anz.],381,2020,46
 294,Elgg,Leerwohnungen Total [Anz.],381,2021,32
 294,Elgg,Leerwohnungen Total [Anz.],381,2022,19
+294,Elgg,Leerwohnungen Total [Anz.],381,2023,12
 295,Horgen,Leerwohnungen Total [Anz.],381,2018,74
 295,Horgen,Leerwohnungen Total [Anz.],381,2019,69
 295,Horgen,Leerwohnungen Total [Anz.],381,2020,75
 295,Horgen,Leerwohnungen Total [Anz.],381,2021,58
 295,Horgen,Leerwohnungen Total [Anz.],381,2022,51
+295,Horgen,Leerwohnungen Total [Anz.],381,2023,42
 296,Illnau-Effretikon,Leerwohnungen Total [Anz.],381,1990,6
 296,Illnau-Effretikon,Leerwohnungen Total [Anz.],381,1991,6
 296,Illnau-Effretikon,Leerwohnungen Total [Anz.],381,1992,24
@@ -10211,6 +10528,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 296,Illnau-Effretikon,Leerwohnungen Total [Anz.],381,2020,70
 296,Illnau-Effretikon,Leerwohnungen Total [Anz.],381,2021,65
 296,Illnau-Effretikon,Leerwohnungen Total [Anz.],381,2022,67
+296,Illnau-Effretikon,Leerwohnungen Total [Anz.],381,2023,46
 297,Bauma,Leerwohnungen Total [Anz.],381,1990,4
 297,Bauma,Leerwohnungen Total [Anz.],381,1991,3
 297,Bauma,Leerwohnungen Total [Anz.],381,1992,2
@@ -10244,6 +10562,7 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 297,Bauma,Leerwohnungen Total [Anz.],381,2020,30
 297,Bauma,Leerwohnungen Total [Anz.],381,2021,38
 297,Bauma,Leerwohnungen Total [Anz.],381,2022,29
+297,Bauma,Leerwohnungen Total [Anz.],381,2023,19
 298,Wiesendangen,Leerwohnungen Total [Anz.],381,1990,8
 298,Wiesendangen,Leerwohnungen Total [Anz.],381,1991,5
 298,Wiesendangen,Leerwohnungen Total [Anz.],381,1992,7
@@ -10277,3 +10596,4 @@ bfs_nr,gebiet_name,indikator_name,indikator_id,indikator_jahr,indikator_value
 298,Wiesendangen,Leerwohnungen Total [Anz.],381,2020,20
 298,Wiesendangen,Leerwohnungen Total [Anz.],381,2021,6
 298,Wiesendangen,Leerwohnungen Total [Anz.],381,2022,13
+298,Wiesendangen,Leerwohnungen Total [Anz.],381,2023,9
